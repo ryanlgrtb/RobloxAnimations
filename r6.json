@@ -1,0 +1,7387 @@
+[
+    {
+        "RigType": "R6",
+        "Name": "TheCharleston",
+        "AnimationId": "rbxassetid://429703734"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JumpingJacks",
+        "AnimationId": "rbxassetid://429681631"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LookDown&Examine",
+        "AnimationId": "rbxassetid://420461070"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Hold&RaiseArms",
+        "AnimationId": "rbxassetid://420406849"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EggBeater-Swing",
+        "AnimationId": "rbxassetid://377385068"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverseerHammer-Swing",
+        "AnimationId": "rbxassetid://334753747"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverseerHammer-Equip",
+        "AnimationId": "rbxassetid://334752168"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualWieldLunge",
+        "AnimationId": "rbxassetid://334661867"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualWieldHold",
+        "AnimationId": "rbxassetid://334659285"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualWieldSlash",
+        "AnimationId": "rbxassetid://334658585"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sleigh-SitPose",
+        "AnimationId": "rbxassetid://327324663"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Horse-Ride",
+        "AnimationId": "rbxassetid://321277423"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Horse-Walk",
+        "AnimationId": "rbxassetid://321225258"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Club-Hold",
+        "AnimationId": "rbxassetid://317460113"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualHatchets-Throw",
+        "AnimationId": "rbxassetid://317449706"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PieLanucher",
+        "AnimationId": "rbxassetid://316642563"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualAxes-OutwardDoubleSlash",
+        "AnimationId": "rbxassetid://315466978"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualAxes-Equip",
+        "AnimationId": "rbxassetid://315464872"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Briefcase-Throw",
+        "AnimationId": "rbxassetid://314726307"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ViewMaster-HoldDiskOut",
+        "AnimationId": "rbxassetid://313776454"
+    },
+    {
+        "RigType": "R6",
+        "Name": "View-Master-Hover",
+        "AnimationId": "rbxassetid://313762630"
+    },
+    {
+        "RigType": "R6",
+        "Name": "View-Master-Hold",
+        "AnimationId": "rbxassetid://313735596"
+    },
+    {
+        "RigType": "R6",
+        "Name": "View-Master-InsertDisk",
+        "AnimationId": "rbxassetid://313724674"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Throw",
+        "AnimationId": "rbxassetid://313060411"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slasher-OppositeSlash",
+        "AnimationId": "rbxassetid://306490611"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scythe-Slice",
+        "AnimationId": "rbxassetid://306452297"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scythe-Cut",
+        "AnimationId": "rbxassetid://306451377"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scythe-SpinSlash",
+        "AnimationId": "rbxassetid://306450253"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scythe-Slash2",
+        "AnimationId": "rbxassetid://306414428"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scythe-Hold",
+        "AnimationId": "rbxassetid://306352073"
+    },
+    {
+        "RigType": "R6",
+        "Name": "VampireHunterCrossbow-AxeSlash",
+        "AnimationId": "rbxassetid://301983042"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CrayolaCrayon-Trace",
+        "AnimationId": "rbxassetid://299246734"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CrayolaCrayon-HoldStencil",
+        "AnimationId": "rbxassetid://299225058"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MorningStar-CenterSwing",
+        "AnimationId": "rbxassetid://297778466"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MorningStar-RightSwing",
+        "AnimationId": "rbxassetid://297764418"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MorningStar-LeftSwing",
+        "AnimationId": "rbxassetid://297764233"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Throw",
+        "AnimationId": "rbxassetid://289897637"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseFall",
+        "AnimationId": "rbxassetid://289878116"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseJump",
+        "AnimationId": "rbxassetid://289877829"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseRide",
+        "AnimationId": "rbxassetid://289454972"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseWalk",
+        "AnimationId": "rbxassetid://289443727"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpecialPose",
+        "AnimationId": "rbxassetid://289338750"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RevolverReload",
+        "AnimationId": "rbxassetid://287396044"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RevolverIdle",
+        "AnimationId": "rbxassetid://287388049"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RevolverShoot",
+        "AnimationId": "rbxassetid://287387833"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Grapple-Crouch",
+        "AnimationId": "rbxassetid://287325678"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-Lunge",
+        "AnimationId": "rbxassetid://285965988"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-LeftSlash",
+        "AnimationId": "rbxassetid://285552468"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-RightSlash",
+        "AnimationId": "rbxassetid://285551640"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserRifle-UsingScope",
+        "AnimationId": "rbxassetid://283545583"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserRifle-Equip",
+        "AnimationId": "rbxassetid://283119655"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PlayerFlailing",
+        "AnimationId": "rbxassetid://282574440"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CastSpell-Blast",
+        "AnimationId": "rbxassetid://277780975"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserRifle-Fire",
+        "AnimationId": "rbxassetid://277780478"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DINOGRENADE",
+        "AnimationId": "rbxassetid://277345130"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Crossbow-Slash",
+        "AnimationId": "rbxassetid://277172616"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Crossbow-Equip",
+        "AnimationId": "rbxassetid://277003236"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceSword-Idle",
+        "AnimationId": "rbxassetid://276357624"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnifePen-ReleaseCharge&amp;Throw",
+        "AnimationId": "rbxassetid://273187396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnifePen-HoldCharge",
+        "AnimationId": "rbxassetid://273186929"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnifePen-ChargeThrow",
+        "AnimationId": "rbxassetid://273186758"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnifePen-RemoveCap",
+        "AnimationId": "rbxassetid://273159186"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Cough",
+        "AnimationId": "rbxassetid://272761516"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-Summon",
+        "AnimationId": "rbxassetid://268569955"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Phone-Call",
+        "AnimationId": "rbxassetid://268490758"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Car-IdlePose",
+        "AnimationId": "rbxassetid://264034706"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Guitar-Pluck",
+        "AnimationId": "rbxassetid://263586627"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AmericaSword-ReleaseCharge",
+        "AnimationId": "rbxassetid://262309036"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ATV-Equip",
+        "AnimationId": "rbxassetid://260671046"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualPlungers-Hold",
+        "AnimationId": "rbxassetid://259440107"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualPlungers-Spin",
+        "AnimationId": "rbxassetid://259438880"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Flying-Looped",
+        "AnimationId": "rbxassetid://257279573"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shield-Hold",
+        "AnimationId": "rbxassetid://255644024"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Kusarigama-Swing",
+        "AnimationId": "rbxassetid://253338514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Kusarigama-Hold",
+        "AnimationId": "rbxassetid://253205777"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InfiniteRunnerRun",
+        "AnimationId": "rbxassetid://252557606"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GameController-Hold",
+        "AnimationId": "rbxassetid://252551819"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NinjaClaw-ReleaseCharge",
+        "AnimationId": "rbxassetid://252395746"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NinjaClaw-ChargeLoop",
+        "AnimationId": "rbxassetid://252395365"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NinjaClaw-Slash",
+        "AnimationId": "rbxassetid://252390165"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Heather'sAxe-Bash",
+        "AnimationId": "rbxassetid://251075391"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Heather'sAxe-Slice",
+        "AnimationId": "rbxassetid://251071344"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Heather'sAxe-Slash",
+        "AnimationId": "rbxassetid://251056488"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Climb",
+        "AnimationId": "rbxassetid://248336677"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Sit",
+        "AnimationId": "rbxassetid://248336459"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Jump",
+        "AnimationId": "rbxassetid://248336294"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Fall",
+        "AnimationId": "rbxassetid://248336163"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Walk",
+        "AnimationId": "rbxassetid://248335946"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxikin-Idle",
+        "AnimationId": "rbxassetid://248332713"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-Swipe",
+        "AnimationId": "rbxassetid://247748354"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-SidestepSpin",
+        "AnimationId": "rbxassetid://247745836"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-SidestepUpperSlash",
+        "AnimationId": "rbxassetid://247744115"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-CenteredDownwardIdlePose",
+        "AnimationId": "rbxassetid://247742499"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-Spin",
+        "AnimationId": "rbxassetid://247739506"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-InwardUpperSlash",
+        "AnimationId": "rbxassetid://247735656"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-UpwardSlash",
+        "AnimationId": "rbxassetid://247734644"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-Slash",
+        "AnimationId": "rbxassetid://247733469"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-OutwardSlash",
+        "AnimationId": "rbxassetid://247732752"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-SidewaysJab",
+        "AnimationId": "rbxassetid://247722403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-Bash",
+        "AnimationId": "rbxassetid://247693145"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lightsaber-Equip",
+        "AnimationId": "rbxassetid://247672845"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Motorcycle-Equip",
+        "AnimationId": "rbxassetid://247487116"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Blast",
+        "AnimationId": "rbxassetid://243999792"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Slash2",
+        "AnimationId": "rbxassetid://243986898"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Slash1",
+        "AnimationId": "rbxassetid://243986496"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Hold",
+        "AnimationId": "rbxassetid://243985891"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Block",
+        "AnimationId": "rbxassetid://243985338"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Flintlock-Hold",
+        "AnimationId": "rbxassetid://243881876"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-DownwardSpin",
+        "AnimationId": "rbxassetid://243849717"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-Spin",
+        "AnimationId": "rbxassetid://243839922"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HandSlam",
+        "AnimationId": "rbxassetid://243827693"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-Jab",
+        "AnimationId": "rbxassetid://243809042"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-ClockwiseWhip",
+        "AnimationId": "rbxassetid://243807825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-Counter-ClockwiseWhip",
+        "AnimationId": "rbxassetid://243766074"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-Slash",
+        "AnimationId": "rbxassetid://243764134"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Naginata-Hold",
+        "AnimationId": "rbxassetid://243761991"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-ChargeFinish",
+        "AnimationId": "rbxassetid://243663079"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-ChargeSlash",
+        "AnimationId": "rbxassetid://243662996"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-FullChargeIdle",
+        "AnimationId": "rbxassetid://243656287"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-CancelCharge",
+        "AnimationId": "rbxassetid://243655793"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-Charge",
+        "AnimationId": "rbxassetid://243653141"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-Slash3",
+        "AnimationId": "rbxassetid://243642696"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-Slash2",
+        "AnimationId": "rbxassetid://243642291"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-Slash1",
+        "AnimationId": "rbxassetid://243641880"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArtemisSwordandShield-ShieldIdle",
+        "AnimationId": "rbxassetid://243631640"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GloveHold",
+        "AnimationId": "rbxassetid://243592320"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HexSpitter-Reload",
+        "AnimationId": "rbxassetid://243311743"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HexSpitter-Fire",
+        "AnimationId": "rbxassetid://243294586"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HexSpitter-HoldIdle",
+        "AnimationId": "rbxassetid://243282565"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dagger-Slash2",
+        "AnimationId": "rbxassetid://242455877"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dagger-Slash",
+        "AnimationId": "rbxassetid://241379669"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dagger-Hold",
+        "AnimationId": "rbxassetid://241279220"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CarpetFlop",
+        "AnimationId": "rbxassetid://236140080"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Horn-Blow",
+        "AnimationId": "rbxassetid://235543257"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArmsOutSpin",
+        "AnimationId": "rbxassetid://235542946"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualCymbalsIdle",
+        "AnimationId": "rbxassetid://235129486"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GlobeLauncherThrow",
+        "AnimationId": "rbxassetid://233535408"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaiSwing",
+        "AnimationId": "rbxassetid://233329237"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaiFall",
+        "AnimationId": "rbxassetid://233322916"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHand-Spin",
+        "AnimationId": "rbxassetid://233087184"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHand-HoldOut",
+        "AnimationId": "rbxassetid://233077885"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaiJump",
+        "AnimationId": "rbxassetid://233064613"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ClockwiseSpin",
+        "AnimationId": "rbxassetid://233036587"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Counter-ClockwiseSpin",
+        "AnimationId": "rbxassetid://232937965"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Grenade-Throw",
+        "AnimationId": "rbxassetid://232442422"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowFire",
+        "AnimationId": "rbxassetid://228444297"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldOntoEgg",
+        "AnimationId": "rbxassetid://225975820"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-Equip",
+        "AnimationId": "rbxassetid://225795104"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlutePlay",
+        "AnimationId": "rbxassetid://225631595"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Carpet-IdleSit",
+        "AnimationId": "rbxassetid://225279725"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleMovement",
+        "AnimationId": "rbxassetid://224950590"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword-TwoHandCenteredEquip",
+        "AnimationId": "rbxassetid://223722445"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Claws-Slash",
+        "AnimationId": "rbxassetid://223624106"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Equip-ArmsOut",
+        "AnimationId": "rbxassetid://223623937"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Slash",
+        "AnimationId": "rbxassetid://223283721"
+    },
+    {
+        "RigType": "R6",
+        "Name": "M1GarandIdle",
+        "AnimationId": "rbxassetid://223226166"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-ShieldBash",
+        "AnimationId": "rbxassetid://223211142"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-DefensiveShieldSlash",
+        "AnimationId": "rbxassetid://223210756"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Block",
+        "AnimationId": "rbxassetid://223207191"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordAndShield-Equip",
+        "AnimationId": "rbxassetid://223206182"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WizardStaff-HoldCharge",
+        "AnimationId": "rbxassetid://221013511"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WizardStaff-Charge",
+        "AnimationId": "rbxassetid://220910360"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WizardStaff-Fire",
+        "AnimationId": "rbxassetid://220893460"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WizardStaff-Equip",
+        "AnimationId": "rbxassetid://220879712"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WizardStaff-CastSpell",
+        "AnimationId": "rbxassetid://220876513"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RedCrossbowReload",
+        "AnimationId": "rbxassetid://220832011"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RedCrossbowHold",
+        "AnimationId": "rbxassetid://220829805"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RedCrossbowHold",
+        "AnimationId": "rbxassetid://220828820"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Claymore-Charge",
+        "AnimationId": "rbxassetid://220540334"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Claymore-JumpAttack",
+        "AnimationId": "rbxassetid://220512718"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Claymore-Swing2",
+        "AnimationId": "rbxassetid://220504509"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Claymore-Swing1",
+        "AnimationId": "rbxassetid://220502245"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaterBottle-Drink",
+        "AnimationId": "rbxassetid://220342144"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Umbrella-Hold",
+        "AnimationId": "rbxassetid://220314918"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserScytheSwing2",
+        "AnimationId": "rbxassetid://218508052"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserScytheSwing1",
+        "AnimationId": "rbxassetid://218504594"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ALSIceBucketChallenge-SelfThrow",
+        "AnimationId": "rbxassetid://217065346"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFreeze-Shiver(Looped)",
+        "AnimationId": "rbxassetid://216937924"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFreeze-Start",
+        "AnimationId": "rbxassetid://216937782"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GriffinFly",
+        "AnimationId": "rbxassetid://215384594"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BloxsterV2-IdlePose",
+        "AnimationId": "rbxassetid://215262147"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BDBWalk",
+        "AnimationId": "rbxassetid://214748382"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BDBIdle",
+        "AnimationId": "rbxassetid://214747217"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BDBStrike",
+        "AnimationId": "rbxassetid://214744412"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DBDRightSlash",
+        "AnimationId": "rbxassetid://214744245"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DBDLeftSlash",
+        "AnimationId": "rbxassetid://214744167"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HyperbikeV2-IdlePose",
+        "AnimationId": "rbxassetid://214738896"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SharkSword-Slash3",
+        "AnimationId": "rbxassetid://212177755"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SharkSword-Charge",
+        "AnimationId": "rbxassetid://212175593"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SharkSword-Slash2",
+        "AnimationId": "rbxassetid://212099530"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SharkSword-Slash1",
+        "AnimationId": "rbxassetid://212068929"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwinKodachi-Slash",
+        "AnimationId": "rbxassetid://211953288"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EatAnimation",
+        "AnimationId": "rbxassetid://211914659"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SmokeBombThrow",
+        "AnimationId": "rbxassetid://209875013"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RayvengeIdle2",
+        "AnimationId": "rbxassetid://207243866"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RayvengeIdle1",
+        "AnimationId": "rbxassetid://207243699"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnifeThrow",
+        "AnimationId": "rbxassetid://207107855"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GunHold",
+        "AnimationId": "rbxassetid://206851098"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Hyperbike-SeatedIdlePose",
+        "AnimationId": "rbxassetid://206693357"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DinoWalk",
+        "AnimationId": "rbxassetid://204328711"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DinoSword-JumpStrike",
+        "AnimationId": "rbxassetid://204295235"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DinoSword-ForwardLunge",
+        "AnimationId": "rbxassetid://204292303"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DinoSword-Slash",
+        "AnimationId": "rbxassetid://204291238"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bow-GrappleShot",
+        "AnimationId": "rbxassetid://204195154"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlailSwing1",
+        "AnimationId": "rbxassetid://204062532"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlailIdle",
+        "AnimationId": "rbxassetid://204055750"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FireBow",
+        "AnimationId": "rbxassetid://203929952"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleBow",
+        "AnimationId": "rbxassetid://203929876"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldBow",
+        "AnimationId": "rbxassetid://203929811"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JeweledSwordSwing2",
+        "AnimationId": "rbxassetid://203876950"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JeweledSwordSwing1",
+        "AnimationId": "rbxassetid://203875401"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SkullBasher-StrongBash",
+        "AnimationId": "rbxassetid://203733184"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SkullBasher-ReleaseHoldAndBash",
+        "AnimationId": "rbxassetid://203675078"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpperSlash",
+        "AnimationId": "rbxassetid://201968383"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OuterSlash",
+        "AnimationId": "rbxassetid://201968176"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DownSlash",
+        "AnimationId": "rbxassetid://201967827"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpSlash",
+        "AnimationId": "rbxassetid://201967646"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DownLeftSlash",
+        "AnimationId": "rbxassetid://201967019"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DownRightSlash",
+        "AnimationId": "rbxassetid://201966758"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpLeftSlash",
+        "AnimationId": "rbxassetid://201966419"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpRightSlash",
+        "AnimationId": "rbxassetid://201965900"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ViolinCrossbow-Aim",
+        "AnimationId": "rbxassetid://200851211"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ViolinCrossbow-Release",
+        "AnimationId": "rbxassetid://200840355"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ViolinCrossbow-Reload",
+        "AnimationId": "rbxassetid://200834692"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Guitar-Smash",
+        "AnimationId": "rbxassetid://193829250"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AssassinCrossbow-StealthPose",
+        "AnimationId": "rbxassetid://193427897"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WarMace-SideSwipe",
+        "AnimationId": "rbxassetid://193347454"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WarMace-Bash",
+        "AnimationId": "rbxassetid://193343548"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AssassinCrossbow-ReleaseArrow",
+        "AnimationId": "rbxassetid://193342492"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WarMace-Whack",
+        "AnimationId": "rbxassetid://193330490"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowHold",
+        "AnimationId": "rbxassetid://193308129"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowShoot",
+        "AnimationId": "rbxassetid://193307200"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowIdle",
+        "AnimationId": "rbxassetid://193305506"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SnowboardStand",
+        "AnimationId": "rbxassetid://193126489"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WarMace-Hold",
+        "AnimationId": "rbxassetid://192911538"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Guitar-Equip",
+        "AnimationId": "rbxassetid://192906348"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Guitar-PlayTune",
+        "AnimationId": "rbxassetid://192900081"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Spin",
+        "AnimationId": "rbxassetid://191124503"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HackAndSlash1",
+        "AnimationId": "rbxassetid://191123156"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DinoWalk",
+        "AnimationId": "rbxassetid://190075311"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Skis-Tuck",
+        "AnimationId": "rbxassetid://190071033"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Skis-Swing",
+        "AnimationId": "rbxassetid://190070830"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Reload",
+        "AnimationId": "rbxassetid://190070243"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Skis-IdleLegMovement",
+        "AnimationId": "rbxassetid://190032723"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bike-RidingStance",
+        "AnimationId": "rbxassetid://189854234"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualWield",
+        "AnimationId": "rbxassetid://188856222"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowDouble",
+        "AnimationId": "rbxassetid://188854557"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowLeft",
+        "AnimationId": "rbxassetid://188854226"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowRight",
+        "AnimationId": "rbxassetid://188853932"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceClaws-Block",
+        "AnimationId": "rbxassetid://188790303"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceClaws-LeftSlash",
+        "AnimationId": "rbxassetid://188741508"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceClaws-RightSlash",
+        "AnimationId": "rbxassetid://188741409"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceClaws-DoubleClash",
+        "AnimationId": "rbxassetid://188741151"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Spin",
+        "AnimationId": "rbxassetid://188632011"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowingStar-Throw",
+        "AnimationId": "rbxassetid://188491904"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBlock",
+        "AnimationId": "rbxassetid://188475403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoneAxe-KickHit",
+        "AnimationId": "rbxassetid://188443632"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoneAxe-ArmsOut",
+        "AnimationId": "rbxassetid://188242481"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoneAxe-ArmsUp",
+        "AnimationId": "rbxassetid://187951261"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoneAxe-LeftSwing",
+        "AnimationId": "rbxassetid://187919240"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoneAxe-RightSwing",
+        "AnimationId": "rbxassetid://187918653"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AssassinCrossbow-IdlePose",
+        "AnimationId": "rbxassetid://187825276"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CannonZoomFire",
+        "AnimationId": "rbxassetid://187774830"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CannonFire",
+        "AnimationId": "rbxassetid://187772539"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CannonZoom",
+        "AnimationId": "rbxassetid://187633322"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnockedOutAnimation",
+        "AnimationId": "rbxassetid://187567719"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PolarBearClaws-LeftSlash",
+        "AnimationId": "rbxassetid://187565018"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PolarBearClaws-RightSlash",
+        "AnimationId": "rbxassetid://187564515"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldArmsOut",
+        "AnimationId": "rbxassetid://187562176"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SnowmanSwordSpin",
+        "AnimationId": "rbxassetid://186934910"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SnowmanSwordChop",
+        "AnimationId": "rbxassetid://186934753"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SnowmanSwordSlash",
+        "AnimationId": "rbxassetid://186934658"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-CompleteHoldDown",
+        "AnimationId": "rbxassetid://186911511"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-Swing",
+        "AnimationId": "rbxassetid://186910380"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-HoldDownLooped",
+        "AnimationId": "rbxassetid://186908229"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-HoldDown",
+        "AnimationId": "rbxassetid://186908192"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-HoldUpLooped",
+        "AnimationId": "rbxassetid://186904307"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IceFlail-HoldUp",
+        "AnimationId": "rbxassetid://186904247"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAndArrow-HoldAim",
+        "AnimationId": "rbxassetid://186773611"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAndArrow-Aim",
+        "AnimationId": "rbxassetid://186773334"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAndArrow-ArrowReload",
+        "AnimationId": "rbxassetid://186766708"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TabletActivate",
+        "AnimationId": "rbxassetid://186673959"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CowbellRing",
+        "AnimationId": "rbxassetid://186434728"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualLunge",
+        "AnimationId": "rbxassetid://186002834"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualSlash",
+        "AnimationId": "rbxassetid://186001341"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualEquip",
+        "AnimationId": "rbxassetid://185824714"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bloxster-Equipped",
+        "AnimationId": "rbxassetid://185299570"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SteampunkBowFire",
+        "AnimationId": "rbxassetid://184721465"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SteampunkBowCharge",
+        "AnimationId": "rbxassetid://184721389"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SteampunkBowPull",
+        "AnimationId": "rbxassetid://184721207"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GiantAngelicSwordSlam",
+        "AnimationId": "rbxassetid://184574340"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GiantAngelicSwordSwingRightToLeft",
+        "AnimationId": "rbxassetid://184573779"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GiantAngelicSwordSwingLeftToRight",
+        "AnimationId": "rbxassetid://184573748"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GiantAngelicSwordHold",
+        "AnimationId": "rbxassetid://184572142"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WingedWarrior'sSword-SwordSpinPose",
+        "AnimationId": "rbxassetid://184467564"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WingedWarrior'sSword-Swing",
+        "AnimationId": "rbxassetid://184465557"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SoldierAiming",
+        "AnimationId": "rbxassetid://183817498"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordOfTheLand-Rise",
+        "AnimationId": "rbxassetid://183798221"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LongSword-LeftSlash",
+        "AnimationId": "rbxassetid://183782172"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LongSword-RightSlash",
+        "AnimationId": "rbxassetid://183781926"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LongSword-TwoHandUpperSlash",
+        "AnimationId": "rbxassetid://183780764"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LongSword-TwoHandSlash",
+        "AnimationId": "rbxassetid://183777591"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Fightened-CoverFaceinTerror",
+        "AnimationId": "rbxassetid://183696478"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FrightenedJumpScare",
+        "AnimationId": "rbxassetid://183695923"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NeonNinjaThrowingStarsThrow",
+        "AnimationId": "rbxassetid://183656597"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BlindingLightAxeNormal2",
+        "AnimationId": "rbxassetid://183464295"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BlindingLightAxeNormal1",
+        "AnimationId": "rbxassetid://183463409"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Violin-Playing",
+        "AnimationId": "rbxassetid://183438463"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Violin-StartPlaying",
+        "AnimationId": "rbxassetid://183436589"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ViolinBowEquip",
+        "AnimationId": "rbxassetid://183428213"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LightReflectionSwordSpecial",
+        "AnimationId": "rbxassetid://183412246"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LightReflectionSwordNormal2",
+        "AnimationId": "rbxassetid://183412214"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LightReflectionSwordNormal1",
+        "AnimationId": "rbxassetid://183412182"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ZombieArmsIdle",
+        "AnimationId": "rbxassetid://183294396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MetalFists-GroundPunch",
+        "AnimationId": "rbxassetid://182789003"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MetalFists-FistPunch",
+        "AnimationId": "rbxassetid://182788311"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MetalFists-ClapPunch",
+        "AnimationId": "rbxassetid://182787360"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MetalFists-RightPunch",
+        "AnimationId": "rbxassetid://182786591"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MetalFists-LeftPunch",
+        "AnimationId": "rbxassetid://182786249"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserGun-Crawl",
+        "AnimationId": "rbxassetid://182749109"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserGun-Crouch",
+        "AnimationId": "rbxassetid://182724289"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserGun-SideShot",
+        "AnimationId": "rbxassetid://182644621"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserGun-Shot",
+        "AnimationId": "rbxassetid://182634467"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaserGun-Equip",
+        "AnimationId": "rbxassetid://182631367"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_3loop",
+        "AnimationId": "rbxassetid://182491423"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_2Loop",
+        "AnimationId": "rbxassetid://182491368"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_3Loop",
+        "AnimationId": "rbxassetid://182491277"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_2Loop",
+        "AnimationId": "rbxassetid://182491248"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3Loop",
+        "AnimationId": "rbxassetid://182491065"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2Loop",
+        "AnimationId": "rbxassetid://182491037"
+    },
+    {
+        "RigType": "R6",
+        "Name": "cannon_shoot_improved",
+        "AnimationId": "rbxassetid://182463144"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_1Loop",
+        "AnimationId": "rbxassetid://182436935"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_1Loop",
+        "AnimationId": "rbxassetid://182436842"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DanceLoop",
+        "AnimationId": "rbxassetid://182435998"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ToolLoopAnimation",
+        "AnimationId": "rbxassetid://182393478"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpkinStinkAttack-Unconscious",
+        "AnimationId": "rbxassetid://181526230"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpkinStinkAttack-Faint",
+        "AnimationId": "rbxassetid://181525546"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowCandy",
+        "AnimationId": "rbxassetid://181437419"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChopPunch",
+        "AnimationId": "rbxassetid://181263498"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpperPunch",
+        "AnimationId": "rbxassetid://181263202"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SidePunch",
+        "AnimationId": "rbxassetid://181262679"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PunchBlock",
+        "AnimationId": "rbxassetid://181262165"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForwardPunch",
+        "AnimationId": "rbxassetid://181260999"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSlash",
+        "AnimationId": "rbxassetid://181167590"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftSlash",
+        "AnimationId": "rbxassetid://180646771"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Frightened",
+        "AnimationId": "rbxassetid://180612465"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Scream",
+        "AnimationId": "rbxassetid://180611870"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ClimbLoopAnimation",
+        "AnimationId": "rbxassetid://180436334"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallLoopAnimation",
+        "AnimationId": "rbxassetid://180436148"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle2LoopAnimation",
+        "AnimationId": "rbxassetid://180435792"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle1LoopAnimation",
+        "AnimationId": "rbxassetid://180435571"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkLoopAnimation",
+        "AnimationId": "rbxassetid://180426354"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ZombieAttack",
+        "AnimationId": "rbxassetid://180416148"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MonsterMorphPose",
+        "AnimationId": "rbxassetid://180391962"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DrinkPotion",
+        "AnimationId": "rbxassetid://180324301"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RoPed-StandUp",
+        "AnimationId": "rbxassetid://180270832"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash7",
+        "AnimationId": "rbxassetid://180167640"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash6",
+        "AnimationId": "rbxassetid://180166818"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash5",
+        "AnimationId": "rbxassetid://180166754"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash4",
+        "AnimationId": "rbxassetid://180166458"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash3",
+        "AnimationId": "rbxassetid://180166194"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash2",
+        "AnimationId": "rbxassetid://180165953"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UndeadKnightSword-Slash1",
+        "AnimationId": "rbxassetid://180165573"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArmsOutAnimation",
+        "AnimationId": "rbxassetid://179629775"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SitAnimation",
+        "AnimationId": "rbxassetid://179224234"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SittingAnimation",
+        "AnimationId": "rbxassetid://178130996"
+    },
+    {
+        "RigType": "R6",
+        "Name": "crossbow_reload",
+        "AnimationId": "rbxassetid://177825431"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EnergySwordSlash",
+        "AnimationId": "rbxassetid://177443776"
+    },
+    {
+        "RigType": "R6",
+        "Name": "foamfinger_excited",
+        "AnimationId": "rbxassetid://176236333"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheOfSingularity-Equip",
+        "AnimationId": "rbxassetid://176223120"
+    },
+    {
+        "RigType": "R6",
+        "Name": "cannon_shoot",
+        "AnimationId": "rbxassetid://176177529"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TigerSword-RightSlash",
+        "AnimationId": "rbxassetid://175202396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TigerSword-LeftSlash",
+        "AnimationId": "rbxassetid://175164337"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EgyptianSwordSwing1",
+        "AnimationId": "rbxassetid://174517680"
+    },
+    {
+        "RigType": "R6",
+        "Name": "frisbee_swing",
+        "AnimationId": "rbxassetid://174347769"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CrossbowReload",
+        "AnimationId": "rbxassetid://174317574"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CivilWarCannonSitPose",
+        "AnimationId": "rbxassetid://173820337"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ALSIceBucketShiver",
+        "AnimationId": "rbxassetid://173712459"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ALSIceBucketSelfThrow",
+        "AnimationId": "rbxassetid://173675204"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ALSIceBucketThrow",
+        "AnimationId": "rbxassetid://173673979"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallKnightSword-Special",
+        "AnimationId": "rbxassetid://172258585"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallKnightSwordSwing3",
+        "AnimationId": "rbxassetid://172206261"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallKnightSwordSwing2",
+        "AnimationId": "rbxassetid://172205402"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallKnightSwordSwing1",
+        "AnimationId": "rbxassetid://172204003"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Penguin_Slide",
+        "AnimationId": "rbxassetid://171967794"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Taco_Launcher_Taco_Reaction",
+        "AnimationId": "rbxassetid://170720901"
+    },
+    {
+        "RigType": "R6",
+        "Name": "blah3",
+        "AnimationId": "rbxassetid://169638954"
+    },
+    {
+        "RigType": "R6",
+        "Name": "mace_swing",
+        "AnimationId": "rbxassetid://168801331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "dash_attack",
+        "AnimationId": "rbxassetid://168744201"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Space_Sword_Special",
+        "AnimationId": "rbxassetid://168298118"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Space_Sword_Swing_4",
+        "AnimationId": "rbxassetid://168272429"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Space_Sword_Swing_3",
+        "AnimationId": "rbxassetid://168271478"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Space_Sword_Swing_2",
+        "AnimationId": "rbxassetid://168270705"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Space_Sword_Swing_1",
+        "AnimationId": "rbxassetid://168268306"
+    },
+    {
+        "RigType": "R6",
+        "Name": "grenade_throw",
+        "AnimationId": "rbxassetid://168160500"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Pizza_Delivery_Motorcycle_Riding",
+        "AnimationId": "rbxassetid://168138731"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Gatling_Laser_Equip",
+        "AnimationId": "rbxassetid://168086975"
+    },
+    {
+        "RigType": "R6",
+        "Name": "flame_eat",
+        "AnimationId": "rbxassetid://167434460"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle_Movement",
+        "AnimationId": "rbxassetid://167272039"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Boxing_Glove_Launcher_Reload",
+        "AnimationId": "rbxassetid://166944187"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Boxing_Glove_Launcher_Fire",
+        "AnimationId": "rbxassetid://166942995"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Ham_Fists_Right_Punch",
+        "AnimationId": "rbxassetid://166610111"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Ham_Fists_Left_Punch",
+        "AnimationId": "rbxassetid://166609398"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dagger_Strike",
+        "AnimationId": "rbxassetid://166264948"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Tutu_Jump_Pose_2",
+        "AnimationId": "rbxassetid://165928826"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Tutu_Jump_Pose_1",
+        "AnimationId": "rbxassetid://165928638"
+    },
+    {
+        "RigType": "R6",
+        "Name": "fall2013",
+        "AnimationId": "rbxassetid://165167632"
+    },
+    {
+        "RigType": "R6",
+        "Name": "jump2013",
+        "AnimationId": "rbxassetid://165167557"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Sword_Swing",
+        "AnimationId": "rbxassetid://164174920"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Spear_Swing",
+        "AnimationId": "rbxassetid://164025878"
+    },
+    {
+        "RigType": "R6",
+        "Name": "fire_attack",
+        "AnimationId": "rbxassetid://163209885"
+    },
+    {
+        "RigType": "R6",
+        "Name": "drink_liquid",
+        "AnimationId": "rbxassetid://163203876"
+    },
+    {
+        "RigType": "R6",
+        "Name": "plane_throw",
+        "AnimationId": "rbxassetid://162861977"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Midas_Hand_Swing",
+        "AnimationId": "rbxassetid://162787112"
+    },
+    {
+        "RigType": "R6",
+        "Name": "item_throw",
+        "AnimationId": "rbxassetid://162266420"
+    },
+    {
+        "RigType": "R6",
+        "Name": "cymbals_slam",
+        "AnimationId": "rbxassetid://162250536"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Guitar_Play_Note_Anim",
+        "AnimationId": "rbxassetid://162215777"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UFO_Spawn_Anim",
+        "AnimationId": "rbxassetid://161723112"
+    },
+    {
+        "RigType": "R6",
+        "Name": "controller_hold",
+        "AnimationId": "rbxassetid://161268368"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Climb2013",
+        "AnimationId": "rbxassetid://161235826"
+    },
+    {
+        "RigType": "R6",
+        "Name": "walk2013",
+        "AnimationId": "rbxassetid://161210451"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Wings_Flight_Takeoff_Anim",
+        "AnimationId": "rbxassetid://161156755"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Plunger_Reload_Anim",
+        "AnimationId": "rbxassetid://161128887"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle2013",
+        "AnimationId": "rbxassetid://161100084"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2013",
+        "AnimationId": "rbxassetid://161099825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "firework_light",
+        "AnimationId": "rbxassetid://161033971"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_3",
+        "AnimationId": "rbxassetid://160934593"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_2",
+        "AnimationId": "rbxassetid://160934530"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3_1",
+        "AnimationId": "rbxassetid://160934458"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_3",
+        "AnimationId": "rbxassetid://160934376"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_2",
+        "AnimationId": "rbxassetid://160934298"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2_1",
+        "AnimationId": "rbxassetid://160934142"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Ollie_Anim",
+        "AnimationId": "rbxassetid://160737450"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightTurn_Anim",
+        "AnimationId": "rbxassetid://160737408"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftTurn_Anim",
+        "AnimationId": "rbxassetid://160737355"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CoastingPose_Anim",
+        "AnimationId": "rbxassetid://160737288"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BoardKick_Anim",
+        "AnimationId": "rbxassetid://160737244"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staff-call",
+        "AnimationId": "rbxassetid://160725720"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Charge_Anim",
+        "AnimationId": "rbxassetid://160696650"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Upper_Slash_Anim",
+        "AnimationId": "rbxassetid://160693489"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Nunchuck_Swing",
+        "AnimationId": "rbxassetid://160105022"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Hold_Out_Anim",
+        "AnimationId": "rbxassetid://160100140"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bo_Staff_Grip",
+        "AnimationId": "rbxassetid://160093062"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Eating_Anim",
+        "AnimationId": "rbxassetid://159993489"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BOW_RELOAD",
+        "AnimationId": "rbxassetid://159934882"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Block",
+        "AnimationId": "rbxassetid://159866845"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Left_Slash",
+        "AnimationId": "rbxassetid://159864898"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Right_Slash",
+        "AnimationId": "rbxassetid://159864833"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Periastron_Charge",
+        "AnimationId": "rbxassetid://159223413"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Laser_Chainsaw_Laser_Shot",
+        "AnimationId": "rbxassetid://158994295"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Laser_Chainsaw_Slash",
+        "AnimationId": "rbxassetid://158977057"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Laser_Faceplate_Pose",
+        "AnimationId": "rbxassetid://158821881"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Spin",
+        "AnimationId": "rbxassetid://157568994"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReloadArrow_Anim",
+        "AnimationId": "rbxassetid://153839856"
+    },
+    {
+        "RigType": "R6",
+        "Name": "sec",
+        "AnimationId": "rbxassetid://153823541"
+    },
+    {
+        "RigType": "R6",
+        "Name": "first",
+        "AnimationId": "rbxassetid://153823345"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BassDrop_ThrowAnim",
+        "AnimationId": "rbxassetid://152223753"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BassDrop_ThrowAnim",
+        "AnimationId": "rbxassetid://152208184"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipChair_Anim",
+        "AnimationId": "rbxassetid://151316061"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChargeShotEnd",
+        "AnimationId": "rbxassetid://151293057"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChargeShotBegin",
+        "AnimationId": "rbxassetid://151292974"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Test2",
+        "AnimationId": "rbxassetid://151292681"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Test",
+        "AnimationId": "rbxassetid://151291739"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BalloonFloat02",
+        "AnimationId": "rbxassetid://148840371"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BalloonHold",
+        "AnimationId": "rbxassetid://148831127"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BalloonFloat",
+        "AnimationId": "rbxassetid://148831003"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SkiDown_Animation",
+        "AnimationId": "rbxassetid://142890187"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SkiSwing_Animation",
+        "AnimationId": "rbxassetid://142890086"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HockeyCheck",
+        "AnimationId": "rbxassetid://142495255"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HockeyGrip",
+        "AnimationId": "rbxassetid://142486448"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HockeySwing2",
+        "AnimationId": "rbxassetid://142486118"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HockeySwing",
+        "AnimationId": "rbxassetid://142485629"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TorsoAxisTest",
+        "AnimationId": "rbxassetid://137390720"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PyroOverheadAxeSwing",
+        "AnimationId": "rbxassetid://136938138"
+    },
+    {
+        "RigType": "R6",
+        "Name": "invisObject",
+        "AnimationId": "rbxassetid://136807611"
+    },
+    {
+        "RigType": "R6",
+        "Name": "invisObject",
+        "AnimationId": "rbxassetid://136807610"
+    },
+    {
+        "RigType": "R6",
+        "Name": "invisObject",
+        "AnimationId": "rbxassetid://136807365"
+    },
+    {
+        "RigType": "R6",
+        "Name": "promiseItWorks",
+        "AnimationId": "rbxassetid://136805353"
+    },
+    {
+        "RigType": "R6",
+        "Name": "promiseItWorks",
+        "AnimationId": "rbxassetid://136805199"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Barrel3",
+        "AnimationId": "rbxassetid://136801964"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BarrelDos",
+        "AnimationId": "rbxassetid://136799807"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DoABarrelRoll",
+        "AnimationId": "rbxassetid://136796812"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BarrelRoll",
+        "AnimationId": "rbxassetid://136796440"
+    },
+    {
+        "RigType": "R6",
+        "Name": "finalSlash2",
+        "AnimationId": "rbxassetid://136793475"
+    },
+    {
+        "RigType": "R6",
+        "Name": "finalSlash2",
+        "AnimationId": "rbxassetid://136791863"
+    },
+    {
+        "RigType": "R6",
+        "Name": "finalSlash",
+        "AnimationId": "rbxassetid://136791180"
+    },
+    {
+        "RigType": "R6",
+        "Name": "123",
+        "AnimationId": "rbxassetid://136778923"
+    },
+    {
+        "RigType": "R6",
+        "Name": "qwe",
+        "AnimationId": "rbxassetid://136778640"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testAnim2",
+        "AnimationId": "rbxassetid://136774723"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testAnim",
+        "AnimationId": "rbxassetid://136774091"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance3",
+        "AnimationId": "rbxassetid://132546884"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance2",
+        "AnimationId": "rbxassetid://132546839"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DanceTest",
+        "AnimationId": "rbxassetid://132149582"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkLoop",
+        "AnimationId": "rbxassetid://130591500"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FutureBowFire",
+        "AnimationId": "rbxassetid://130039616"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FutureBowEquip",
+        "AnimationId": "rbxassetid://130037764"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Dance",
+        "AnimationId": "rbxassetid://130018893"
+    },
+    {
+        "RigType": "R6",
+        "Name": "lunge",
+        "AnimationId": "rbxassetid://129967478"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://129967390"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LaughAnimation",
+        "AnimationId": "rbxassetid://129423131"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CheerAnim",
+        "AnimationId": "rbxassetid://129423030"
+    },
+    {
+        "RigType": "R6",
+        "Name": "aniplease",
+        "AnimationId": "rbxassetid://129342287"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KeyframeSequence",
+        "AnimationId": "rbxassetid://129341533"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe2_2",
+        "AnimationId": "rbxassetid://128869083"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PointAnimation",
+        "AnimationId": "rbxassetid://128853357"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnimation",
+        "AnimationId": "rbxassetid://128777973"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MadMaxAxeSlash",
+        "AnimationId": "rbxassetid://128239271"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MadMaxAxeEquip",
+        "AnimationId": "rbxassetid://128234455"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KOSSGustHornBlow",
+        "AnimationId": "rbxassetid://127405384"
+    },
+    {
+        "RigType": "R6",
+        "Name": "test2please",
+        "AnimationId": "rbxassetid://127310840"
+    },
+    {
+        "RigType": "R6",
+        "Name": "test2please",
+        "AnimationId": "rbxassetid://127310646"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testplease",
+        "AnimationId": "rbxassetid://127309083"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ApeArmsPunch3",
+        "AnimationId": "rbxassetid://126753849"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ApeArmsPunch2",
+        "AnimationId": "rbxassetid://126752874"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ApeArmsPunch1",
+        "AnimationId": "rbxassetid://126749742"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ApeArmsIdle",
+        "AnimationId": "rbxassetid://126741747"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ApeArmsIdle",
+        "AnimationId": "rbxassetid://126741153"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HornPotionRun",
+        "AnimationId": "rbxassetid://126707392"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ToolAnimation",
+        "AnimationId": "rbxassetid://125750867"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ClimbAnimation",
+        "AnimationId": "rbxassetid://125750800"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FallAnimation",
+        "AnimationId": "rbxassetid://125750759"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JumpAnimation",
+        "AnimationId": "rbxassetid://125750702"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle2Animation",
+        "AnimationId": "rbxassetid://125750618"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle1Animation",
+        "AnimationId": "rbxassetid://125750544"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkAnimation",
+        "AnimationId": "rbxassetid://125749145"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalrusGunEquip",
+        "AnimationId": "rbxassetid://123895982"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_LanternSwish",
+        "AnimationId": "rbxassetid://123125265"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_LanternHold",
+        "AnimationId": "rbxassetid://123125224"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_LanternEquip",
+        "AnimationId": "rbxassetid://123125189"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InstantCampfireHotDogEatAnimation",
+        "AnimationId": "rbxassetid://123101323"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://122358216"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Equip",
+        "AnimationId": "rbxassetid://122358185"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PunkBraceletHeadbang",
+        "AnimationId": "rbxassetid://122342062"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PunkBraceletEquip",
+        "AnimationId": "rbxassetid://122319948"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_DogSit",
+        "AnimationId": "rbxassetid://121574294"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_DogSit",
+        "AnimationId": "rbxassetid://121572214"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_DogRun",
+        "AnimationId": "rbxassetid://121572181"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_DogIdle",
+        "AnimationId": "rbxassetid://121572113"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_VeggieArmsEat",
+        "AnimationId": "rbxassetid://121563411"
+    },
+    {
+        "RigType": "R6",
+        "Name": "VeggieArmsEquipAnimation",
+        "AnimationId": "rbxassetid://121560514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_EndSmash",
+        "AnimationId": "rbxassetid://120735762"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BeginSmash",
+        "AnimationId": "rbxassetid://120735709"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120735631"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120732732"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Spin",
+        "AnimationId": "rbxassetid://120732433"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Spin",
+        "AnimationId": "rbxassetid://120732428"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_EndSmash",
+        "AnimationId": "rbxassetid://120732028"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BeginSmash",
+        "AnimationId": "rbxassetid://120731972"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120728413"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120727226"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120724995"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120645297"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Swing",
+        "AnimationId": "rbxassetid://120645112"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Run",
+        "AnimationId": "rbxassetid://120642404"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Idle",
+        "AnimationId": "rbxassetid://120642355"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Equip",
+        "AnimationId": "rbxassetid://120642286"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Equip",
+        "AnimationId": "rbxassetid://120628042"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_PlaceRocket",
+        "AnimationId": "rbxassetid://119810554"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_HoldRocket",
+        "AnimationId": "rbxassetid://119810509"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FlyGlider",
+        "AnimationId": "rbxassetid://119783214"
+    },
+    {
+        "RigType": "R6",
+        "Name": "reloadplease",
+        "AnimationId": "rbxassetid://116695140"
+    },
+    {
+        "RigType": "R6",
+        "Name": "holdplz2",
+        "AnimationId": "rbxassetid://116690317"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_OgreWarchant",
+        "AnimationId": "rbxassetid://116083498"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OGRE_Warchant",
+        "AnimationId": "rbxassetid://116083279"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_OgreWarchant",
+        "AnimationId": "rbxassetid://116048217"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_OgrePunt",
+        "AnimationId": "rbxassetid://116048158"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_OgreHold",
+        "AnimationId": "rbxassetid://116048079"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_OgreOnFire",
+        "AnimationId": "rbxassetid://116047903"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JarOpenAnim2",
+        "AnimationId": "rbxassetid://115308061"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JarOpen",
+        "AnimationId": "rbxassetid://115304940"
+    },
+    {
+        "RigType": "R6",
+        "Name": "layinghold2",
+        "AnimationId": "rbxassetid://113246235"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testRun4",
+        "AnimationId": "rbxassetid://112504572"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testRun3",
+        "AnimationId": "rbxassetid://112494584"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testRun2",
+        "AnimationId": "rbxassetid://112358813"
+    },
+    {
+        "RigType": "R6",
+        "Name": "flip3please",
+        "AnimationId": "rbxassetid://111898867"
+    },
+    {
+        "RigType": "R6",
+        "Name": "flip2please",
+        "AnimationId": "rbxassetid://111898513"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pleaseflip",
+        "AnimationId": "rbxassetid://111880514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testrun",
+        "AnimationId": "rbxassetid://109530008"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ha2",
+        "AnimationId": "rbxassetid://107456513"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bla",
+        "AnimationId": "rbxassetid://107455394"
+    },
+    {
+        "RigType": "R6",
+        "Name": "riiiide",
+        "AnimationId": "rbxassetid://106772613"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ride3",
+        "AnimationId": "rbxassetid://106771723"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ride",
+        "AnimationId": "rbxassetid://106759209"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HelicopterArms2",
+        "AnimationId": "rbxassetid://106634763"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HelicopterArms",
+        "AnimationId": "rbxassetid://106629350"
+    },
+    {
+        "RigType": "R6",
+        "Name": "sin",
+        "AnimationId": "rbxassetid://105928917"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KeyframeSequence",
+        "AnimationId": "rbxassetid://105927762"
+    },
+    {
+        "RigType": "R6",
+        "Name": "spinani2",
+        "AnimationId": "rbxassetid://105925870"
+    },
+    {
+        "RigType": "R6",
+        "Name": "spinani2",
+        "AnimationId": "rbxassetid://105921722"
+    },
+    {
+        "RigType": "R6",
+        "Name": "spinani",
+        "AnimationId": "rbxassetid://105919599"
+    },
+    {
+        "RigType": "R6",
+        "Name": "attack",
+        "AnimationId": "rbxassetid://105371766"
+    },
+    {
+        "RigType": "R6",
+        "Name": "idleAnim",
+        "AnimationId": "rbxassetid://105371735"
+    },
+    {
+        "RigType": "R6",
+        "Name": "idleAnim2",
+        "AnimationId": "rbxassetid://105371431"
+    },
+    {
+        "RigType": "R6",
+        "Name": "idleAnim",
+        "AnimationId": "rbxassetid://105371229"
+    },
+    {
+        "RigType": "R6",
+        "Name": "attack",
+        "AnimationId": "rbxassetid://105352446"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testtrebuchetani",
+        "AnimationId": "rbxassetid://105287044"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DoubleClawAttack",
+        "AnimationId": "rbxassetid://105211514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnimEdit_Export",
+        "AnimationId": "rbxassetid://104673992"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnimEdit_Export",
+        "AnimationId": "rbxassetid://104514993"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnimEdit_Export",
+        "AnimationId": "rbxassetid://104506550"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EatBeans",
+        "AnimationId": "rbxassetid://103822775"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoSword2",
+        "AnimationId": "rbxassetid://103809023"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_PyroxClawAttack2",
+        "AnimationId": "rbxassetid://103808695"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_PyroxClawAttack",
+        "AnimationId": "rbxassetid://103804968"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_HeroFactoryRunV2",
+        "AnimationId": "rbxassetid://103803396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoArms",
+        "AnimationId": "rbxassetid://103803223"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_HeroFactoryRun",
+        "AnimationId": "rbxassetid://103802539"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoWalkTestArms2",
+        "AnimationId": "rbxassetid://103799214"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoWalkTestArms",
+        "AnimationId": "rbxassetid://103798833"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoWalkTestLegs",
+        "AnimationId": "rbxassetid://103798802"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoWalk",
+        "AnimationId": "rbxassetid://103765907"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoSword",
+        "AnimationId": "rbxassetid://103760641"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoShieldV2",
+        "AnimationId": "rbxassetid://103758868"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ShieldOfAwesomeTest1",
+        "AnimationId": "rbxassetid://103752282"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FurnoShield",
+        "AnimationId": "rbxassetid://103744157"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Run",
+        "AnimationId": "rbxassetid://103281385"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Pounce",
+        "AnimationId": "rbxassetid://103281365"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Idle",
+        "AnimationId": "rbxassetid://103281356"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_EndJump",
+        "AnimationId": "rbxassetid://103281348"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Bite",
+        "AnimationId": "rbxassetid://103281341"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BeginJump",
+        "AnimationId": "rbxassetid://103281327"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnimEdit_Export",
+        "AnimationId": "rbxassetid://102494000"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnimEdit_Export",
+        "AnimationId": "rbxassetid://102492689"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FootballDance1",
+        "AnimationId": "rbxassetid://101862746"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_FixedSpike1",
+        "AnimationId": "rbxassetid://101851767"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_UpdatedSpike1",
+        "AnimationId": "rbxassetid://101850170"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Spike1",
+        "AnimationId": "rbxassetid://101844532"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Spike1",
+        "AnimationId": "rbxassetid://101843538"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpikeAnim1",
+        "AnimationId": "rbxassetid://101842738"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReadyAim2",
+        "AnimationId": "rbxassetid://101097290"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WitchTemp",
+        "AnimationId": "rbxassetid://101078539"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BroomHoldIdle",
+        "AnimationId": "rbxassetid://101074752"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Release",
+        "AnimationId": "rbxassetid://101070520"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HandsTogetherSlow",
+        "AnimationId": "rbxassetid://101051273"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReleaseSlow",
+        "AnimationId": "rbxassetid://101035724"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReloadLoop2",
+        "AnimationId": "rbxassetid://101004654"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EndReload",
+        "AnimationId": "rbxassetid://101001475"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReloadLoop",
+        "AnimationId": "rbxassetid://101000991"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartReload",
+        "AnimationId": "rbxassetid://100999683"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StopFire",
+        "AnimationId": "rbxassetid://100998595"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FireRockets",
+        "AnimationId": "rbxassetid://100998342"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReadyAimIdle",
+        "AnimationId": "rbxassetid://100917701"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReadyAim",
+        "AnimationId": "rbxassetid://100900609"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitch",
+        "AnimationId": "rbxassetid://100356641"
+    },
+    {
+        "RigType": "R6",
+        "Name": "chargearm5",
+        "AnimationId": "rbxassetid://100356237"
+    },
+    {
+        "RigType": "R6",
+        "Name": "chargearm4",
+        "AnimationId": "rbxassetid://100355854"
+    },
+    {
+        "RigType": "R6",
+        "Name": "charegearm3",
+        "AnimationId": "rbxassetid://100355175"
+    },
+    {
+        "RigType": "R6",
+        "Name": "chargearm",
+        "AnimationId": "rbxassetid://100354942"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitchhold2",
+        "AnimationId": "rbxassetid://100353779"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitchforkHold",
+        "AnimationId": "rbxassetid://100353414"
+    },
+    {
+        "RigType": "R6",
+        "Name": "runcharge",
+        "AnimationId": "rbxassetid://100348530"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pipethrow2",
+        "AnimationId": "rbxassetid://100289053"
+    },
+    {
+        "RigType": "R6",
+        "Name": "yayMONEY",
+        "AnimationId": "rbxassetid://99815141"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MAKEITRAIN",
+        "AnimationId": "rbxassetid://99807079"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold3",
+        "AnimationId": "rbxassetid://99200153"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pluck",
+        "AnimationId": "rbxassetid://99198989"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold2",
+        "AnimationId": "rbxassetid://99198392"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold",
+        "AnimationId": "rbxassetid://99196838"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlyAnim",
+        "AnimationId": "rbxassetid://99031477"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChargeEnergyBall2",
+        "AnimationId": "rbxassetid://98457346"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChargeEnergyBall",
+        "AnimationId": "rbxassetid://98456177"
+    },
+    {
+        "RigType": "R6",
+        "Name": "nothinbg",
+        "AnimationId": "rbxassetid://98454170"
+    },
+    {
+        "RigType": "R6",
+        "Name": "reload1",
+        "AnimationId": "rbxassetid://97900365"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold2",
+        "AnimationId": "rbxassetid://97898532"
+    },
+    {
+        "RigType": "R6",
+        "Name": "fire3",
+        "AnimationId": "rbxassetid://97898138"
+    },
+    {
+        "RigType": "R6",
+        "Name": "fire2",
+        "AnimationId": "rbxassetid://97897857"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold",
+        "AnimationId": "rbxassetid://97897239"
+    },
+    {
+        "RigType": "R6",
+        "Name": "reload2",
+        "AnimationId": "rbxassetid://97885754"
+    },
+    {
+        "RigType": "R6",
+        "Name": "fireani",
+        "AnimationId": "rbxassetid://97884303"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KeyframeSequence",
+        "AnimationId": "rbxassetid://97884040"
+    },
+    {
+        "RigType": "R6",
+        "Name": "revolveridle",
+        "AnimationId": "rbxassetid://97883794"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Idle",
+        "AnimationId": "rbxassetid://97206298"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlyAnim",
+        "AnimationId": "rbxassetid://97172005"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LandingJets",
+        "AnimationId": "rbxassetid://97171309"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JumpJets",
+        "AnimationId": "rbxassetid://97170520"
+    },
+    {
+        "RigType": "R6",
+        "Name": "test",
+        "AnimationId": "rbxassetid://97169019"
+    },
+    {
+        "RigType": "R6",
+        "Name": "slash2",
+        "AnimationId": "rbxassetid://96677230"
+    },
+    {
+        "RigType": "R6",
+        "Name": "slash1",
+        "AnimationId": "rbxassetid://96676712"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hold",
+        "AnimationId": "rbxassetid://96675769"
+    },
+    {
+        "RigType": "R6",
+        "Name": "kick2",
+        "AnimationId": "rbxassetid://96621537"
+    },
+    {
+        "RigType": "R6",
+        "Name": "spartainKick",
+        "AnimationId": "rbxassetid://96619712"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHandRightSwing",
+        "AnimationId": "rbxassetid://96560758"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHandSlash",
+        "AnimationId": "rbxassetid://96559477"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DaggerHold",
+        "AnimationId": "rbxassetid://96559165"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Stab2",
+        "AnimationId": "rbxassetid://96559161"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Stab",
+        "AnimationId": "rbxassetid://96559159"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleTest1",
+        "AnimationId": "rbxassetid://96556734"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SitAnim",
+        "AnimationId": "rbxassetid://96090042"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheSlash",
+        "AnimationId": "rbxassetid://96071496"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheIdle2",
+        "AnimationId": "rbxassetid://96065457"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheEquip2",
+        "AnimationId": "rbxassetid://96064636"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheIdle",
+        "AnimationId": "rbxassetid://96063177"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScytheEquip",
+        "AnimationId": "rbxassetid://96060721"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KFS",
+        "AnimationId": "rbxassetid://96059718"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Panic",
+        "AnimationId": "rbxassetid://95424077"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axehit",
+        "AnimationId": "rbxassetid://95420574"
+    },
+    {
+        "RigType": "R6",
+        "Name": "psychowalk2",
+        "AnimationId": "rbxassetid://95415687"
+    },
+    {
+        "RigType": "R6",
+        "Name": "psychowalk",
+        "AnimationId": "rbxassetid://95415492"
+    },
+    {
+        "RigType": "R6",
+        "Name": "stenreload",
+        "AnimationId": "rbxassetid://95390631"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StenFire2",
+        "AnimationId": "rbxassetid://95390146"
+    },
+    {
+        "RigType": "R6",
+        "Name": "stenFire",
+        "AnimationId": "rbxassetid://95389971"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StenIdle",
+        "AnimationId": "rbxassetid://95389685"
+    },
+    {
+        "RigType": "R6",
+        "Name": "lugerreload2",
+        "AnimationId": "rbxassetid://95384819"
+    },
+    {
+        "RigType": "R6",
+        "Name": "lugerreload",
+        "AnimationId": "rbxassetid://95384639"
+    },
+    {
+        "RigType": "R6",
+        "Name": "lugerfire2",
+        "AnimationId": "rbxassetid://95383980"
+    },
+    {
+        "RigType": "R6",
+        "Name": "lugerfire",
+        "AnimationId": "rbxassetid://95383761"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BombThrow",
+        "AnimationId": "rbxassetid://94861252"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BombHold2",
+        "AnimationId": "rbxassetid://94861246"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StandPerfectlyStill",
+        "AnimationId": "rbxassetid://94853940"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ExecuteAnim2",
+        "AnimationId": "rbxassetid://94790629"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwingAnim",
+        "AnimationId": "rbxassetid://94790076"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim",
+        "AnimationId": "rbxassetid://94789762"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim",
+        "AnimationId": "rbxassetid://94789364"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://94788942"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NewFireAndReload",
+        "AnimationId": "rbxassetid://94771598"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Drink",
+        "AnimationId": "rbxassetid://94700140"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shotgunequip3",
+        "AnimationId": "rbxassetid://94242777"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shotgunequip2",
+        "AnimationId": "rbxassetid://94239711"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shotgunpump",
+        "AnimationId": "rbxassetid://94236391"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shotgunequip",
+        "AnimationId": "rbxassetid://94234491"
+    },
+    {
+        "RigType": "R6",
+        "Name": "slam",
+        "AnimationId": "rbxassetid://94190213"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrustAnim2",
+        "AnimationId": "rbxassetid://94161333"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim2",
+        "AnimationId": "rbxassetid://94161088"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverheadAnim2",
+        "AnimationId": "rbxassetid://94160738"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim5",
+        "AnimationId": "rbxassetid://94160581"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim4",
+        "AnimationId": "rbxassetid://94160427"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim2",
+        "AnimationId": "rbxassetid://94157627"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UnEquipAnim2",
+        "AnimationId": "rbxassetid://94156580"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim2",
+        "AnimationId": "rbxassetid://94156535"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleEquipAnim2",
+        "AnimationId": "rbxassetid://94156486"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim3",
+        "AnimationId": "rbxassetid://94128300"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlingshotFire2",
+        "AnimationId": "rbxassetid://94126022"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlingshotEquip2",
+        "AnimationId": "rbxassetid://94123357"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketReload",
+        "AnimationId": "rbxassetid://94121406"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload11",
+        "AnimationId": "rbxassetid://94118992"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketIdle",
+        "AnimationId": "rbxassetid://94118240"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload10",
+        "AnimationId": "rbxassetid://94116824"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlingshotEquip",
+        "AnimationId": "rbxassetid://94116311"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload9",
+        "AnimationId": "rbxassetid://94113401"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrustAnim",
+        "AnimationId": "rbxassetid://94110233"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload8",
+        "AnimationId": "rbxassetid://94109334"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim3",
+        "AnimationId": "rbxassetid://94108418"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload7",
+        "AnimationId": "rbxassetid://94108052"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim2",
+        "AnimationId": "rbxassetid://94107807"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload6",
+        "AnimationId": "rbxassetid://94107611"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload5",
+        "AnimationId": "rbxassetid://94106741"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload4",
+        "AnimationId": "rbxassetid://94105760"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload3",
+        "AnimationId": "rbxassetid://94105089"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload2",
+        "AnimationId": "rbxassetid://94104867"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverheadAnim",
+        "AnimationId": "rbxassetid://94099358"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RocketFireAndReload",
+        "AnimationId": "rbxassetid://94098253"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://94097701"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim",
+        "AnimationId": "rbxassetid://94096418"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UnequipAnim2",
+        "AnimationId": "rbxassetid://94095929"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://94071694"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://94068974"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MoveArm",
+        "AnimationId": "rbxassetid://94068278"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Shoot2GvM",
+        "AnimationId": "rbxassetid://93713389"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShootGvM",
+        "AnimationId": "rbxassetid://93712419"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleGvM",
+        "AnimationId": "rbxassetid://93711728"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffpound",
+        "AnimationId": "rbxassetid://93696468"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Summon",
+        "AnimationId": "rbxassetid://93693205"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Enrage",
+        "AnimationId": "rbxassetid://93648331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Inject2",
+        "AnimationId": "rbxassetid://93642075"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Inject",
+        "AnimationId": "rbxassetid://93638686"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InjectAnim2",
+        "AnimationId": "rbxassetid://93636142"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InjectAnim2",
+        "AnimationId": "rbxassetid://93635868"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Inject",
+        "AnimationId": "rbxassetid://93633990"
+    },
+    {
+        "RigType": "R6",
+        "Name": "thrust2",
+        "AnimationId": "rbxassetid://93633158"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffspin",
+        "AnimationId": "rbxassetid://93631019"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffthrust",
+        "AnimationId": "rbxassetid://93630210"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NewNoogieLoop",
+        "AnimationId": "rbxassetid://93604135"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NewNoogie",
+        "AnimationId": "rbxassetid://93603335"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleStanding2",
+        "AnimationId": "rbxassetid://93191852"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowStar3",
+        "AnimationId": "rbxassetid://93185821"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowStar2",
+        "AnimationId": "rbxassetid://93185360"
+    },
+    {
+        "RigType": "R6",
+        "Name": "MaceSpin",
+        "AnimationId": "rbxassetid://93180890"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Blowgun2",
+        "AnimationId": "rbxassetid://93165731"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Blowgun2",
+        "AnimationId": "rbxassetid://93165286"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Blowgun",
+        "AnimationId": "rbxassetid://93164833"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NoogieLoop",
+        "AnimationId": "rbxassetid://93158647"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Noogie1",
+        "AnimationId": "rbxassetid://93157368"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BladeCharge",
+        "AnimationId": "rbxassetid://93107367"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BladeCharge",
+        "AnimationId": "rbxassetid://93107107"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BladeCharge",
+        "AnimationId": "rbxassetid://93106911"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pose1",
+        "AnimationId": "rbxassetid://93060724"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pose2",
+        "AnimationId": "rbxassetid://93060716"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pose3",
+        "AnimationId": "rbxassetid://93060712"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pose4",
+        "AnimationId": "rbxassetid://93060709"
+    },
+    {
+        "RigType": "R6",
+        "Name": "uppercut",
+        "AnimationId": "rbxassetid://93051479"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LOLOLOLO",
+        "AnimationId": "rbxassetid://93045404"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92625138"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92625019"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92605860"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92605502"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BLAH",
+        "AnimationId": "rbxassetid://92603242"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92601994"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92601293"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffEquip2",
+        "AnimationId": "rbxassetid://92597490"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordEquip2",
+        "AnimationId": "rbxassetid://92597324"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordEquip2",
+        "AnimationId": "rbxassetid://92596924"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LHoldV3",
+        "AnimationId": "rbxassetid://92594426"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LHoldV2",
+        "AnimationId": "rbxassetid://92591304"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LHold",
+        "AnimationId": "rbxassetid://92590020"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92583811"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://92582630"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://92576399"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://92575755"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Roll",
+        "AnimationId": "rbxassetid://92162915"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffSmash",
+        "AnimationId": "rbxassetid://92155463"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffSlash",
+        "AnimationId": "rbxassetid://92155394"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffEquip",
+        "AnimationId": "rbxassetid://92155268"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_NunSlash",
+        "AnimationId": "rbxassetid://92155146"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_NunEquip",
+        "AnimationId": "rbxassetid://92155035"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SaiSlash",
+        "AnimationId": "rbxassetid://92154859"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SaiEquip",
+        "AnimationId": "rbxassetid://92154762"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordSlash",
+        "AnimationId": "rbxassetid://92153881"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordEquip",
+        "AnimationId": "rbxassetid://92153767"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SaiSlash",
+        "AnimationId": "rbxassetid://92108526"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_NunSlash",
+        "AnimationId": "rbxassetid://92076168"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffEquip",
+        "AnimationId": "rbxassetid://92076052"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffSmash",
+        "AnimationId": "rbxassetid://92076033"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_StaffSlash",
+        "AnimationId": "rbxassetid://92075912"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Run",
+        "AnimationId": "rbxassetid://91510033"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Roll",
+        "AnimationId": "rbxassetid://91496899"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_NunEquip",
+        "AnimationId": "rbxassetid://91432186"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordSlash",
+        "AnimationId": "rbxassetid://91431725"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DodgeTest",
+        "AnimationId": "rbxassetid://91381776"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DodgeTest",
+        "AnimationId": "rbxassetid://91381081"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordEquip",
+        "AnimationId": "rbxassetid://91354198"
+    },
+    {
+        "RigType": "R6",
+        "Name": "selfharm2",
+        "AnimationId": "rbxassetid://91346946"
+    },
+    {
+        "RigType": "R6",
+        "Name": "selfharm",
+        "AnimationId": "rbxassetid://91346439"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KeyframeSequence",
+        "AnimationId": "rbxassetid://91277357"
+    },
+    {
+        "RigType": "R6",
+        "Name": "gliderhold",
+        "AnimationId": "rbxassetid://90872566"
+    },
+    {
+        "RigType": "R6",
+        "Name": "gliderfly",
+        "AnimationId": "rbxassetid://90872539"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlyAnimation2",
+        "AnimationId": "rbxassetid://90828653"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Fly",
+        "AnimationId": "rbxassetid://90825039"
+    },
+    {
+        "RigType": "R6",
+        "Name": "beeani",
+        "AnimationId": "rbxassetid://90814669"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StoneWandCast",
+        "AnimationId": "rbxassetid://90721125"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StoneWandIdle",
+        "AnimationId": "rbxassetid://90720825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSlam",
+        "AnimationId": "rbxassetid://90615571"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffIdle",
+        "AnimationId": "rbxassetid://90615149"
+    },
+    {
+        "RigType": "R6",
+        "Name": "clawsup",
+        "AnimationId": "rbxassetid://90117804"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_IdleHold_FixedPrio",
+        "AnimationId": "rbxassetid://89493725"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_IdleHold_FixedPrio",
+        "AnimationId": "rbxassetid://89493383"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Idle_FixedPrio",
+        "AnimationId": "rbxassetid://89493344"
+    },
+    {
+        "RigType": "R6",
+        "Name": "gunfire",
+        "AnimationId": "rbxassetid://89456847"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForcePush",
+        "AnimationId": "rbxassetid://89343907"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberIdle2",
+        "AnimationId": "rbxassetid://89343416"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberBlock2",
+        "AnimationId": "rbxassetid://89343139"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaberBlock1",
+        "AnimationId": "rbxassetid://89342584"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberSlash4",
+        "AnimationId": "rbxassetid://89342278"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberSlash2",
+        "AnimationId": "rbxassetid://89341036"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe2",
+        "AnimationId": "rbxassetid://89289879"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RecoilMid",
+        "AnimationId": "rbxassetid://89289443"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RecoilFast",
+        "AnimationId": "rbxassetid://89288901"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Recoil",
+        "AnimationId": "rbxassetid://89287727"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberSlash",
+        "AnimationId": "rbxassetid://89286651"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberSlash",
+        "AnimationId": "rbxassetid://89286534"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saberIdle",
+        "AnimationId": "rbxassetid://89285976"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe4",
+        "AnimationId": "rbxassetid://89285652"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe3",
+        "AnimationId": "rbxassetid://89285440"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe2",
+        "AnimationId": "rbxassetid://89285151"
+    },
+    {
+        "RigType": "R6",
+        "Name": "axe",
+        "AnimationId": "rbxassetid://89283403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LightsaberHold",
+        "AnimationId": "rbxassetid://89280035"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AnAnimat",
+        "AnimationId": "rbxassetid://89276079"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Throw",
+        "AnimationId": "rbxassetid://89147993"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabPunch",
+        "AnimationId": "rbxassetid://89134792"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DownStab",
+        "AnimationId": "rbxassetid://89133529"
+    },
+    {
+        "RigType": "R6",
+        "Name": "donothing",
+        "AnimationId": "rbxassetid://89132324"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_HoldGrenade",
+        "AnimationId": "rbxassetid://88743592"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ThrowGrenade",
+        "AnimationId": "rbxassetid://88743566"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DiscusThrow",
+        "AnimationId": "rbxassetid://88440037"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BGearSlash",
+        "AnimationId": "rbxassetid://88115141"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BRunHold",
+        "AnimationId": "rbxassetid://88106052"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BIdleHold",
+        "AnimationId": "rbxassetid://88106029"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BHoldGear",
+        "AnimationId": "rbxassetid://88055106"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PoleVaultRun",
+        "AnimationId": "rbxassetid://88038181"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NewLunge",
+        "AnimationId": "rbxassetid://88029282"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BIdle",
+        "AnimationId": "rbxassetid://88028261"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HeadPosition",
+        "AnimationId": "rbxassetid://88016955"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lunger",
+        "AnimationId": "rbxassetid://88016722"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lungein",
+        "AnimationId": "rbxassetid://88014785"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleAnim",
+        "AnimationId": "rbxassetid://88013940"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Advancing",
+        "AnimationId": "rbxassetid://87986341"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lunge",
+        "AnimationId": "rbxassetid://87985027"
+    },
+    {
+        "RigType": "R6",
+        "Name": "IdleFencing",
+        "AnimationId": "rbxassetid://87983681"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BIdle",
+        "AnimationId": "rbxassetid://87981149"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BSwim",
+        "AnimationId": "rbxassetid://87947850"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BSwim",
+        "AnimationId": "rbxassetid://87945539"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BIdle",
+        "AnimationId": "rbxassetid://87944492"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BWalkCycle2",
+        "AnimationId": "rbxassetid://87826332"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BWalkCycle2",
+        "AnimationId": "rbxassetid://87825924"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BWalkCycle",
+        "AnimationId": "rbxassetid://87825914"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BRunFast",
+        "AnimationId": "rbxassetid://87825898"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BRunCycle2",
+        "AnimationId": "rbxassetid://87825889"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BRunCycle",
+        "AnimationId": "rbxassetid://87825878"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BIdle",
+        "AnimationId": "rbxassetid://87825852"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BEndJump",
+        "AnimationId": "rbxassetid://87825834"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BClimbLadder",
+        "AnimationId": "rbxassetid://87825814"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_BBeginJump",
+        "AnimationId": "rbxassetid://87825795"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_RunCycle2",
+        "AnimationId": "rbxassetid://87783890"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_WalkCycle2",
+        "AnimationId": "rbxassetid://87774425"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_WalkCycle",
+        "AnimationId": "rbxassetid://87772275"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UnstableCharge",
+        "AnimationId": "rbxassetid://87761809"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStab1Rest",
+        "AnimationId": "rbxassetid://87703843"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStab1Legs",
+        "AnimationId": "rbxassetid://87703825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStab1Legs",
+        "AnimationId": "rbxassetid://87701704"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordWalk",
+        "AnimationId": "rbxassetid://87701510"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStance2",
+        "AnimationId": "rbxassetid://87701504"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStance1",
+        "AnimationId": "rbxassetid://87701492"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStab1Legs",
+        "AnimationId": "rbxassetid://87701466"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordStab1",
+        "AnimationId": "rbxassetid://87701439"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordSlash1Rest",
+        "AnimationId": "rbxassetid://87701427"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordSlash1Legs",
+        "AnimationId": "rbxassetid://87701416"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordSlash1",
+        "AnimationId": "rbxassetid://87701403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordHold3",
+        "AnimationId": "rbxassetid://87701390"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordHold2",
+        "AnimationId": "rbxassetid://87701386"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SwordHold1",
+        "AnimationId": "rbxassetid://87701356"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callme3",
+        "AnimationId": "rbxassetid://87684948"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callme2",
+        "AnimationId": "rbxassetid://87684351"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callme",
+        "AnimationId": "rbxassetid://87683384"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Walk3",
+        "AnimationId": "rbxassetid://87609930"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Walk2",
+        "AnimationId": "rbxassetid://87609920"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Walk",
+        "AnimationId": "rbxassetid://87609909"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_JumpStart",
+        "AnimationId": "rbxassetid://87609899"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_JumpEnd",
+        "AnimationId": "rbxassetid://87609893"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Idle",
+        "AnimationId": "rbxassetid://87609891"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Fall",
+        "AnimationId": "rbxassetid://87609885"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_EndFall",
+        "AnimationId": "rbxassetid://87609881"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ClimbStairs",
+        "AnimationId": "rbxassetid://87609875"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ClimbLadder",
+        "AnimationId": "rbxassetid://87609864"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HeadUp",
+        "AnimationId": "rbxassetid://87313649"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Animation",
+        "AnimationId": "rbxassetid://87313595"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TailShoot",
+        "AnimationId": "rbxassetid://86895433"
+    },
+    {
+        "RigType": "R6",
+        "Name": "QuadHeadUp",
+        "AnimationId": "rbxassetid://86889844"
+    },
+    {
+        "RigType": "R6",
+        "Name": "QuadWalk",
+        "AnimationId": "rbxassetid://86887007"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callme",
+        "AnimationId": "rbxassetid://86614939"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TonightsForcast",
+        "AnimationId": "rbxassetid://86504773"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftSwingFast",
+        "AnimationId": "rbxassetid://86313418"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSwingFast",
+        "AnimationId": "rbxassetid://86313260"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callAni",
+        "AnimationId": "rbxassetid://86311374"
+    },
+    {
+        "RigType": "R6",
+        "Name": "callAni",
+        "AnimationId": "rbxassetid://86310439"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DoubleAttack",
+        "AnimationId": "rbxassetid://86169319"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrustSlash",
+        "AnimationId": "rbxassetid://86159303"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UltraSlamDown",
+        "AnimationId": "rbxassetid://86146856"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UltraKatanaIdle",
+        "AnimationId": "rbxassetid://85877138"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UnsheathUltra",
+        "AnimationId": "rbxassetid://85875280"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForceReleaseAnim",
+        "AnimationId": "rbxassetid://85837387"
+    },
+    {
+        "RigType": "R6",
+        "Name": "djump3",
+        "AnimationId": "rbxassetid://85837259"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForceChargeAnim",
+        "AnimationId": "rbxassetid://85836966"
+    },
+    {
+        "RigType": "R6",
+        "Name": "djump2",
+        "AnimationId": "rbxassetid://85836344"
+    },
+    {
+        "RigType": "R6",
+        "Name": "djump",
+        "AnimationId": "rbxassetid://85835312"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Arming",
+        "AnimationId": "rbxassetid://85726457"
+    },
+    {
+        "RigType": "R6",
+        "Name": "swordPumpUp2",
+        "AnimationId": "rbxassetid://85723345"
+    },
+    {
+        "RigType": "R6",
+        "Name": "swordPumpUp",
+        "AnimationId": "rbxassetid://85721204"
+    },
+    {
+        "RigType": "R6",
+        "Name": "dualslash2",
+        "AnimationId": "rbxassetid://85576403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RaiseArm",
+        "AnimationId": "rbxassetid://85576342"
+    },
+    {
+        "RigType": "R6",
+        "Name": "dualhandslash",
+        "AnimationId": "rbxassetid://85575994"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HeadSwing",
+        "AnimationId": "rbxassetid://85570603"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WavyHands",
+        "AnimationId": "rbxassetid://85568863"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_PlainSlashAnim",
+        "AnimationId": "rbxassetid://84058063"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_PlainEquipAnim",
+        "AnimationId": "rbxassetid://84058039"
+    },
+    {
+        "RigType": "R6",
+        "Name": "celestial_staff_wave",
+        "AnimationId": "rbxassetid://83994332"
+    },
+    {
+        "RigType": "R6",
+        "Name": "celestial_staff_raised",
+        "AnimationId": "rbxassetid://83994319"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_slash",
+        "AnimationId": "rbxassetid://82272327"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_fire",
+        "AnimationId": "rbxassetid://82272303"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_equip",
+        "AnimationId": "rbxassetid://82272273"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_fire",
+        "AnimationId": "rbxassetid://81563152"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_walk",
+        "AnimationId": "rbxassetid://80980248"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_fly",
+        "AnimationId": "rbxassetid://80980235"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_equip",
+        "AnimationId": "rbxassetid://80980229"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_walk",
+        "AnimationId": "rbxassetid://80979216"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_stand",
+        "AnimationId": "rbxassetid://80979207"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_fly",
+        "AnimationId": "rbxassetid://80979197"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_equip",
+        "AnimationId": "rbxassetid://80979190"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lunge",
+        "AnimationId": "rbxassetid://80395075"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldingGuns2",
+        "AnimationId": "rbxassetid://79419747"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldingGuns",
+        "AnimationId": "rbxassetid://79419402"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Testssss",
+        "AnimationId": "rbxassetid://79418964"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_walkshield",
+        "AnimationId": "rbxassetid://79155174"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_stash",
+        "AnimationId": "rbxassetid://79155162"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_slash1",
+        "AnimationId": "rbxassetid://79155154"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_exitshield",
+        "AnimationId": "rbxassetid://79155149"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_equip",
+        "AnimationId": "rbxassetid://79155144"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_entershield",
+        "AnimationId": "rbxassetid://79155126"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_endcharge",
+        "AnimationId": "rbxassetid://79155124"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_charge",
+        "AnimationId": "rbxassetid://79155114"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_begincharge",
+        "AnimationId": "rbxassetid://79155105"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_2stash",
+        "AnimationId": "rbxassetid://79155073"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_2slash",
+        "AnimationId": "rbxassetid://79155062"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_2equip",
+        "AnimationId": "rbxassetid://79155042"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_1equip",
+        "AnimationId": "rbxassetid://79155032"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CheckEye",
+        "AnimationId": "rbxassetid://79094862"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipStaff",
+        "AnimationId": "rbxassetid://79087399"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwingStaff2",
+        "AnimationId": "rbxassetid://78675825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSwing",
+        "AnimationId": "rbxassetid://78622405"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldingStaff2",
+        "AnimationId": "rbxassetid://78616646"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpStaff3",
+        "AnimationId": "rbxassetid://78574417"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldingStaff",
+        "AnimationId": "rbxassetid://78574410"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpStaff2",
+        "AnimationId": "rbxassetid://78572792"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UpStaff",
+        "AnimationId": "rbxassetid://78569321"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Testing",
+        "AnimationId": "rbxassetid://78500923"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SprayPaint",
+        "AnimationId": "rbxassetid://78494810"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testanim",
+        "AnimationId": "rbxassetid://78494039"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Swing",
+        "AnimationId": "rbxassetid://78394786"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkAnim",
+        "AnimationId": "rbxassetid://78025439"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidFireAnim",
+        "AnimationId": "rbxassetid://78025314"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://77319318"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Swirm",
+        "AnimationId": "rbxassetid://77280244"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://76157307"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://76156569"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://76156446"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://76156068"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BiteAnim",
+        "AnimationId": "rbxassetid://76138892"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BlastAnim",
+        "AnimationId": "rbxassetid://76114643"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlapAnim",
+        "AnimationId": "rbxassetid://75549420"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldDefense",
+        "AnimationId": "rbxassetid://75522566"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldWalk",
+        "AnimationId": "rbxassetid://75522313"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldDefense",
+        "AnimationId": "rbxassetid://75522038"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChantAnim",
+        "AnimationId": "rbxassetid://75477112"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChantAnim",
+        "AnimationId": "rbxassetid://75476911"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChantAnim",
+        "AnimationId": "rbxassetid://75476727"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest6",
+        "AnimationId": "rbxassetid://75416338"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest5",
+        "AnimationId": "rbxassetid://75415711"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest4",
+        "AnimationId": "rbxassetid://75415556"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest2",
+        "AnimationId": "rbxassetid://75415270"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest3",
+        "AnimationId": "rbxassetid://75415257"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Rest",
+        "AnimationId": "rbxassetid://75356212"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StartRest",
+        "AnimationId": "rbxassetid://75356030"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Roar",
+        "AnimationId": "rbxassetid://75354915"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ButtonPress",
+        "AnimationId": "rbxassetid://75322014"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Toss",
+        "AnimationId": "rbxassetid://75321266"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAnim",
+        "AnimationId": "rbxassetid://74937763"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://74936776"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LiftAnim",
+        "AnimationId": "rbxassetid://74935020"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAnim",
+        "AnimationId": "rbxassetid://74934855"
+    },
+    {
+        "RigType": "R6",
+        "Name": "moon_slash_sides",
+        "AnimationId": "rbxassetid://74909569"
+    },
+    {
+        "RigType": "R6",
+        "Name": "moon_slash_left",
+        "AnimationId": "rbxassetid://74909537"
+    },
+    {
+        "RigType": "R6",
+        "Name": "moon_slash_forward",
+        "AnimationId": "rbxassetid://74909528"
+    },
+    {
+        "RigType": "R6",
+        "Name": "moon_charge",
+        "AnimationId": "rbxassetid://74909500"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Taunt",
+        "AnimationId": "rbxassetid://74901237"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverHeadSwing3",
+        "AnimationId": "rbxassetid://74897796"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OverHeadSwing",
+        "AnimationId": "rbxassetid://74895784"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftSlash",
+        "AnimationId": "rbxassetid://74894663"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldToSky",
+        "AnimationId": "rbxassetid://74863286"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Stab2",
+        "AnimationId": "rbxassetid://74815981"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash6",
+        "AnimationId": "rbxassetid://74813494"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash5",
+        "AnimationId": "rbxassetid://74812501"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash4",
+        "AnimationId": "rbxassetid://74811755"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash3",
+        "AnimationId": "rbxassetid://74809182"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Stab",
+        "AnimationId": "rbxassetid://74803197"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash2",
+        "AnimationId": "rbxassetid://74801064"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SimpleSlash",
+        "AnimationId": "rbxassetid://74799600"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Random",
+        "AnimationId": "rbxassetid://74795459"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://74322484"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://73822388"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://73822179"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkAnim",
+        "AnimationId": "rbxassetid://73257515"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bostaff_swing",
+        "AnimationId": "rbxassetid://73177718"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bostaff_stand",
+        "AnimationId": "rbxassetid://73177713"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bostaff_spin",
+        "AnimationId": "rbxassetid://73177702"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Equip",
+        "AnimationId": "rbxassetid://73148224"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Drink",
+        "AnimationId": "rbxassetid://73148207"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Screamer",
+        "AnimationId": "rbxassetid://73137669"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Scream",
+        "AnimationId": "rbxassetid://73137648"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PokeAnim",
+        "AnimationId": "rbxassetid://73105825"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BlockAnim",
+        "AnimationId": "rbxassetid://73102970"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlapAnim",
+        "AnimationId": "rbxassetid://73101021"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_WalkShield",
+        "AnimationId": "rbxassetid://73033721"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SlashPower",
+        "AnimationId": "rbxassetid://73033705"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SlashEnd",
+        "AnimationId": "rbxassetid://73033682"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SlashBegin",
+        "AnimationId": "rbxassetid://73033669"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ExitShield",
+        "AnimationId": "rbxassetid://73033655"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Equip",
+        "AnimationId": "rbxassetid://73033645"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_EnterShield",
+        "AnimationId": "rbxassetid://73033633"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_CharginMa",
+        "AnimationId": "rbxassetid://73033590"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RageAnim",
+        "AnimationId": "rbxassetid://72635723"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://72635328"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OtherFiveAnim",
+        "AnimationId": "rbxassetid://72632381"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OtherFiveAnim",
+        "AnimationId": "rbxassetid://72629115"
+    },
+    {
+        "RigType": "R6",
+        "Name": "OtherHighFiveAnim",
+        "AnimationId": "rbxassetid://72628270"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HighFiveAnim",
+        "AnimationId": "rbxassetid://72628034"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidSlash",
+        "AnimationId": "rbxassetid://72042387"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidSlash",
+        "AnimationId": "rbxassetid://72042265"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidSlash",
+        "AnimationId": "rbxassetid://72042024"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSlash",
+        "AnimationId": "rbxassetid://72041717"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArrowAnim",
+        "AnimationId": "rbxassetid://72041372"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidFireAnim",
+        "AnimationId": "rbxassetid://72041331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RapidFireAnim",
+        "AnimationId": "rbxassetid://72041223"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArrowAnim",
+        "AnimationId": "rbxassetid://72041163"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowWalk",
+        "AnimationId": "rbxassetid://72040689"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowWalk",
+        "AnimationId": "rbxassetid://72040604"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BiteAnim2",
+        "AnimationId": "rbxassetid://71542686"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BiteAnim2",
+        "AnimationId": "rbxassetid://71542554"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShootAnim",
+        "AnimationId": "rbxassetid://71526369"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://71526331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalkAnim",
+        "AnimationId": "rbxassetid://71526265"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalkAnim",
+        "AnimationId": "rbxassetid://71526217"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_ShipSummon",
+        "AnimationId": "rbxassetid://71446087"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://71410074"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveSlash2",
+        "AnimationId": "rbxassetid://71410058"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalkAnim",
+        "AnimationId": "rbxassetid://71410020"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordHolsterAnim",
+        "AnimationId": "rbxassetid://71409978"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalkAnim",
+        "AnimationId": "rbxassetid://71409911"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveSlash",
+        "AnimationId": "rbxassetid://71380167"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveSlash",
+        "AnimationId": "rbxassetid://71379944"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://71374616"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://71374486"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpellAnim",
+        "AnimationId": "rbxassetid://71013291"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpellAnim",
+        "AnimationId": "rbxassetid://71012636"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LampAnim",
+        "AnimationId": "rbxassetid://71012326"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StopTimeAnim",
+        "AnimationId": "rbxassetid://70990857"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LungeSlash",
+        "AnimationId": "rbxassetid://70989553"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash2",
+        "AnimationId": "rbxassetid://70989448"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash2",
+        "AnimationId": "rbxassetid://70989422"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash2",
+        "AnimationId": "rbxassetid://70989413"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash2",
+        "AnimationId": "rbxassetid://70989390"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://70989354"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://70989344"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://70989331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://70989302"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScimitarWalk",
+        "AnimationId": "rbxassetid://70989227"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Hold",
+        "AnimationId": "rbxassetid://70439247"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_Drink",
+        "AnimationId": "rbxassetid://70439232"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BreakAnim",
+        "AnimationId": "rbxassetid://69968304"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BreakAnim",
+        "AnimationId": "rbxassetid://69967893"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://69932631"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://69932559"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ThrowAnim",
+        "AnimationId": "rbxassetid://69932360"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldAnim",
+        "AnimationId": "rbxassetid://69929615"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://69929547"
+    },
+    {
+        "RigType": "R6",
+        "Name": "EquipAnim",
+        "AnimationId": "rbxassetid://69929281"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpearStab",
+        "AnimationId": "rbxassetid://69803991"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpearEquip",
+        "AnimationId": "rbxassetid://69803982"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpearCheck",
+        "AnimationId": "rbxassetid://69803972"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpearCharge",
+        "AnimationId": "rbxassetid://69803963"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://69501108"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldWalk",
+        "AnimationId": "rbxassetid://69500926"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpotWeldFire",
+        "AnimationId": "rbxassetid://69427271"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SpotWeldEquip",
+        "AnimationId": "rbxassetid://69427262"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://68484336"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://68454049"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldAnim",
+        "AnimationId": "rbxassetid://68453984"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldAnim",
+        "AnimationId": "rbxassetid://68453976"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SentryFire2",
+        "AnimationId": "rbxassetid://68433974"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SentryUnfold2",
+        "AnimationId": "rbxassetid://68433924"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalk",
+        "AnimationId": "rbxassetid://68387894"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordWalk",
+        "AnimationId": "rbxassetid://68387779"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UnfoldAnim",
+        "AnimationId": "rbxassetid://68387734"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SentryFire",
+        "AnimationId": "rbxassetid://68339848"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ANIM_SentryUnfold",
+        "AnimationId": "rbxassetid://68339819"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GlobeAnim",
+        "AnimationId": "rbxassetid://66875382"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCritDown",
+        "AnimationId": "rbxassetid://66703957"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCritDown",
+        "AnimationId": "rbxassetid://66703954"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCritUp",
+        "AnimationId": "rbxassetid://66703241"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCrit",
+        "AnimationId": "rbxassetid://66703223"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordSlash",
+        "AnimationId": "rbxassetid://66702758"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordEquip",
+        "AnimationId": "rbxassetid://66702743"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCrit",
+        "AnimationId": "rbxassetid://66702722"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCritDown",
+        "AnimationId": "rbxassetid://66702704"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordCritDown",
+        "AnimationId": "rbxassetid://66338177"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordSlash",
+        "AnimationId": "rbxassetid://66332008"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordEquip",
+        "AnimationId": "rbxassetid://66331528"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SmashAnim",
+        "AnimationId": "rbxassetid://65067813"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://63718551"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://63234156"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://63233998"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldAnim",
+        "AnimationId": "rbxassetid://62323186"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://62319409"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://62319324"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://62319089"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DrinkAnim",
+        "AnimationId": "rbxassetid://61914540"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DrinkAnim",
+        "AnimationId": "rbxassetid://61914291"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InfuseAnim",
+        "AnimationId": "rbxassetid://61887471"
+    },
+    {
+        "RigType": "R6",
+        "Name": "InfuseAnim",
+        "AnimationId": "rbxassetid://61887373"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DaggerSlashAnim",
+        "AnimationId": "rbxassetid://61771447"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DaggerSlash",
+        "AnimationId": "rbxassetid://61771376"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DaggerWalk",
+        "AnimationId": "rbxassetid://61771068"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlamAnim",
+        "AnimationId": "rbxassetid://61444247"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlamAnim",
+        "AnimationId": "rbxassetid://61441664"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlamAnim",
+        "AnimationId": "rbxassetid://61441403"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ScrollAnim",
+        "AnimationId": "rbxassetid://60886735"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChargeKickAnim",
+        "AnimationId": "rbxassetid://60883237"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FlashKickAnim",
+        "AnimationId": "rbxassetid://60882887"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpinAnim",
+        "AnimationId": "rbxassetid://60816404"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpinAnim",
+        "AnimationId": "rbxassetid://60816255"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SliceAnim",
+        "AnimationId": "rbxassetid://60814208"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StiltWalkAnim",
+        "AnimationId": "rbxassetid://60355819"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StiltWalkAnim",
+        "AnimationId": "rbxassetid://60350516"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StiltWalk",
+        "AnimationId": "rbxassetid://60349575"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LungeAnim",
+        "AnimationId": "rbxassetid://60337352"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GuitarAnim",
+        "AnimationId": "rbxassetid://60333009"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GuitarAnim",
+        "AnimationId": "rbxassetid://60332754"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowAnim",
+        "AnimationId": "rbxassetid://59774026"
+    },
+    {
+        "RigType": "R6",
+        "Name": "VolleyballServe",
+        "AnimationId": "rbxassetid://57866879"
+    },
+    {
+        "RigType": "R6",
+        "Name": "VolleyballHit",
+        "AnimationId": "rbxassetid://57862093"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightBongoHighHit",
+        "AnimationId": "rbxassetid://57804902"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightBongoLowHit",
+        "AnimationId": "rbxassetid://57804892"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftBongoHighHit",
+        "AnimationId": "rbxassetid://57804876"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftBongoLowHit",
+        "AnimationId": "rbxassetid://57804853"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightBongoLowHit",
+        "AnimationId": "rbxassetid://57804331"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightBongoHighHit",
+        "AnimationId": "rbxassetid://57796095"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftBongoHighHit",
+        "AnimationId": "rbxassetid://57795745"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LeftBongoLowHit",
+        "AnimationId": "rbxassetid://57795448"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightBongoLowHit",
+        "AnimationId": "rbxassetid://57795241"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReadyBongos",
+        "AnimationId": "rbxassetid://57794492"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ReadyBongos",
+        "AnimationId": "rbxassetid://57793026"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Lick",
+        "AnimationId": "rbxassetid://57720291"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JuiceAnim",
+        "AnimationId": "rbxassetid://57224942"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PotionAnim",
+        "AnimationId": "rbxassetid://56510834"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CannonDown",
+        "AnimationId": "rbxassetid://56153856"
+    },
+    {
+        "RigType": "R6",
+        "Name": "CannonUp",
+        "AnimationId": "rbxassetid://56146409"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HoldAnim",
+        "AnimationId": "rbxassetid://55913910"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArrowAnim",
+        "AnimationId": "rbxassetid://55911435"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GetGuitarReady",
+        "AnimationId": "rbxassetid://55791352"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Strum",
+        "AnimationId": "rbxassetid://55791140"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GetGuitarReady",
+        "AnimationId": "rbxassetid://55790104"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GetGuitarReady",
+        "AnimationId": "rbxassetid://55789969"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GetGuitarReady",
+        "AnimationId": "rbxassetid://55789536"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Strum",
+        "AnimationId": "rbxassetid://55786615"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AxeThrow",
+        "AnimationId": "rbxassetid://55696748"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AxeThrow",
+        "AnimationId": "rbxassetid://55630898"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Drink",
+        "AnimationId": "rbxassetid://55306564"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://55270038"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://55269906"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://55269680"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://55269454"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TorchHold",
+        "AnimationId": "rbxassetid://55267396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Throw",
+        "AnimationId": "rbxassetid://55199506"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PullBack",
+        "AnimationId": "rbxassetid://55199152"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffThud",
+        "AnimationId": "rbxassetid://55054465"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffThud",
+        "AnimationId": "rbxassetid://55043896"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BaseballSwing",
+        "AnimationId": "rbxassetid://55020435"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffThud",
+        "AnimationId": "rbxassetid://54984748"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StickWhack",
+        "AnimationId": "rbxassetid://54933576"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpAnim",
+        "AnimationId": "rbxassetid://54700976"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpAnim",
+        "AnimationId": "rbxassetid://54700872"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpAnim",
+        "AnimationId": "rbxassetid://54700219"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpAnim",
+        "AnimationId": "rbxassetid://54699757"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PumpAnimation",
+        "AnimationId": "rbxassetid://54698510"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://54673790"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://54672378"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://54672068"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WaveAnim",
+        "AnimationId": "rbxassetid://54671810"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSlash",
+        "AnimationId": "rbxassetid://54611484"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSlash",
+        "AnimationId": "rbxassetid://54610595"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RightSlash",
+        "AnimationId": "rbxassetid://54610198"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bonesaw",
+        "AnimationId": "rbxassetid://54605944"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Bonesaw",
+        "AnimationId": "rbxassetid://54603604"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SpikesToFace",
+        "AnimationId": "rbxassetid://54601051"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashNStabAttempt2",
+        "AnimationId": "rbxassetid://54584713"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LONGRageTest",
+        "AnimationId": "rbxassetid://54513258"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DragonSwordRage",
+        "AnimationId": "rbxassetid://54504034"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DragonSwordCharge",
+        "AnimationId": "rbxassetid://54456096"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DragonSwordCharge",
+        "AnimationId": "rbxassetid://54455465"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://54432537"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashNStabAttempt1",
+        "AnimationId": "rbxassetid://54430893"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashNStabAttempt1",
+        "AnimationId": "rbxassetid://54428981"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PaperToSword",
+        "AnimationId": "rbxassetid://54371014"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SwordToPaper",
+        "AnimationId": "rbxassetid://54366612"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Test1",
+        "AnimationId": "rbxassetid://54145508"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TakeThat",
+        "AnimationId": "rbxassetid://54144767"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KeyframeSequence",
+        "AnimationId": "rbxassetid://54144120"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://54124170"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://54123838"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://54121922"
+    },
+    {
+        "RigType": "R6",
+        "Name": "QuakeAnim",
+        "AnimationId": "rbxassetid://54120929"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FastSlash",
+        "AnimationId": "rbxassetid://54001660"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StalkAnim",
+        "AnimationId": "rbxassetid://53610688"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RaiseAnim",
+        "AnimationId": "rbxassetid://53590611"
+    },
+    {
+        "RigType": "R6",
+        "Name": "JudgeAnim",
+        "AnimationId": "rbxassetid://53587901"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BallAnim",
+        "AnimationId": "rbxassetid://52618343"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GuitarAnim",
+        "AnimationId": "rbxassetid://52602039"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Test",
+        "AnimationId": "rbxassetid://52414165"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HackyAnim",
+        "AnimationId": "rbxassetid://52180307"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HackyAnim",
+        "AnimationId": "rbxassetid://52174217"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HackyAnim",
+        "AnimationId": "rbxassetid://52173754"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FluteDance",
+        "AnimationId": "rbxassetid://52155728"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FluteDance",
+        "AnimationId": "rbxassetid://52155014"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Flute",
+        "AnimationId": "rbxassetid://52154760"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BracerBash",
+        "AnimationId": "rbxassetid://51753804"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualSlash",
+        "AnimationId": "rbxassetid://51343632"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Battojutsu",
+        "AnimationId": "rbxassetid://51343043"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Battojutsu",
+        "AnimationId": "rbxassetid://51342576"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaiSlash",
+        "AnimationId": "rbxassetid://51335610"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Blow",
+        "AnimationId": "rbxassetid://51334984"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Blow",
+        "AnimationId": "rbxassetid://51333396"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Battojutsu",
+        "AnimationId": "rbxassetid://51298927"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Battojutsu",
+        "AnimationId": "rbxassetid://51289487"
+    },
+    {
+        "RigType": "R6",
+        "Name": "QuickSlash",
+        "AnimationId": "rbxassetid://51158666"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Load",
+        "AnimationId": "rbxassetid://51158587"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://50930931"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://50248790"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SlashAnim",
+        "AnimationId": "rbxassetid://50248690"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://49907410"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ClubSlam",
+        "AnimationId": "rbxassetid://49903664"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ClubSlam",
+        "AnimationId": "rbxassetid://49903583"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AxeSlash",
+        "AnimationId": "rbxassetid://49901608"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArrowAnim",
+        "AnimationId": "rbxassetid://49869672"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ArrowAnim",
+        "AnimationId": "rbxassetid://49869442"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BowWalk",
+        "AnimationId": "rbxassetid://49867748"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldBash",
+        "AnimationId": "rbxassetid://49818454"
+    },
+    {
+        "RigType": "R6",
+        "Name": "QuickSlash",
+        "AnimationId": "rbxassetid://49815113"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShieldWalk",
+        "AnimationId": "rbxassetid://49763871"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Zombie2",
+        "AnimationId": "rbxassetid://49486651"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WandAnim",
+        "AnimationId": "rbxassetid://49480570"
+    },
+    {
+        "RigType": "R6",
+        "Name": "LightStaffAnim",
+        "AnimationId": "rbxassetid://49457126"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BookAnim",
+        "AnimationId": "rbxassetid://49456429"
+    },
+    {
+        "RigType": "R6",
+        "Name": "FireStaffAnim",
+        "AnimationId": "rbxassetid://49456190"
+    },
+    {
+        "RigType": "R6",
+        "Name": "otherran",
+        "AnimationId": "rbxassetid://48977338"
+    },
+    {
+        "RigType": "R6",
+        "Name": "random",
+        "AnimationId": "rbxassetid://48977286"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseRide",
+        "AnimationId": "rbxassetid://48975505"
+    },
+    {
+        "RigType": "R6",
+        "Name": "WalkHorse",
+        "AnimationId": "rbxassetid://48972923"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RandHand",
+        "AnimationId": "rbxassetid://48972693"
+    },
+    {
+        "RigType": "R6",
+        "Name": "randHand",
+        "AnimationId": "rbxassetid://48972562"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseWalk",
+        "AnimationId": "rbxassetid://48957148"
+    },
+    {
+        "RigType": "R6",
+        "Name": "HorseRide",
+        "AnimationId": "rbxassetid://48955555"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualWalk",
+        "AnimationId": "rbxassetid://48885707"
+    },
+    {
+        "RigType": "R6",
+        "Name": "dualWalk",
+        "AnimationId": "rbxassetid://48885239"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForceStaffAnim",
+        "AnimationId": "rbxassetid://48534664"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ForceStaffAnim",
+        "AnimationId": "rbxassetid://48534374"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://48146488"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DualSlash",
+        "AnimationId": "rbxassetid://48146273"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://48145782"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHandedSlash",
+        "AnimationId": "rbxassetid://48138856"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHandedSlash",
+        "AnimationId": "rbxassetid://48138535"
+    },
+    {
+        "RigType": "R6",
+        "Name": "TwoHandAnim",
+        "AnimationId": "rbxassetid://48138189"
+    },
+    {
+        "RigType": "R6",
+        "Name": "twoHandAnim",
+        "AnimationId": "rbxassetid://48137861"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PirateSlash",
+        "AnimationId": "rbxassetid://48108208"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PirateSlash",
+        "AnimationId": "rbxassetid://48088514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PirateSlash",
+        "AnimationId": "rbxassetid://48082850"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ShadowLunge",
+        "AnimationId": "rbxassetid://48051381"
+    },
+    {
+        "RigType": "R6",
+        "Name": "KnightAnim",
+        "AnimationId": "rbxassetid://48034501"
+    },
+    {
+        "RigType": "R6",
+        "Name": "initiateCloneAnim",
+        "AnimationId": "rbxassetid://47919724"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Tuba",
+        "AnimationId": "rbxassetid://47700095"
+    },
+    {
+        "RigType": "R6",
+        "Name": "GuitarAnim",
+        "AnimationId": "rbxassetid://47675791"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Tuba",
+        "AnimationId": "rbxassetid://47594746"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Tuba",
+        "AnimationId": "rbxassetid://47594199"
+    },
+    {
+        "RigType": "R6",
+        "Name": "ChakraThrow",
+        "AnimationId": "rbxassetid://47277200"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffTaunt",
+        "AnimationId": "rbxassetid://46785765"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffTaunt",
+        "AnimationId": "rbxassetid://46782694"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSlash",
+        "AnimationId": "rbxassetid://46756384"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffLunge",
+        "AnimationId": "rbxassetid://46755449"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin6",
+        "AnimationId": "rbxassetid://46754911"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin5",
+        "AnimationId": "rbxassetid://46730700"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin5",
+        "AnimationId": "rbxassetid://46730574"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin5",
+        "AnimationId": "rbxassetid://46730431"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin5",
+        "AnimationId": "rbxassetid://46729660"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin4",
+        "AnimationId": "rbxassetid://46729357"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin",
+        "AnimationId": "rbxassetid://46728771"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSpin2",
+        "AnimationId": "rbxassetid://46728251"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSwing",
+        "AnimationId": "rbxassetid://46727778"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffTaunt",
+        "AnimationId": "rbxassetid://46700863"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StaffSwing",
+        "AnimationId": "rbxassetid://46672869"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PenguinSlide",
+        "AnimationId": "rbxassetid://46333678"
+    },
+    {
+        "RigType": "R6",
+        "Name": "AxeSpin",
+        "AnimationId": "rbxassetid://46286122"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Swing",
+        "AnimationId": "rbxassetid://46277580"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PenguinJump",
+        "AnimationId": "rbxassetid://46196309"
+    },
+    {
+        "RigType": "R6",
+        "Name": "PenguinWalk",
+        "AnimationId": "rbxassetid://46196182"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Throw",
+        "AnimationId": "rbxassetid://46182987"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Whack",
+        "AnimationId": "rbxassetid://46151856"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Whack",
+        "AnimationId": "rbxassetid://46150387"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://45914822"
+    },
+    {
+        "RigType": "R6",
+        "Name": "StabAnim",
+        "AnimationId": "rbxassetid://45914787"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SideSlash",
+        "AnimationId": "rbxassetid://45913583"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SideSlash",
+        "AnimationId": "rbxassetid://45912348"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NinjaSlash",
+        "AnimationId": "rbxassetid://45873069"
+    },
+    {
+        "RigType": "R6",
+        "Name": "disco2",
+        "AnimationId": "rbxassetid://45834924"
+    },
+    {
+        "RigType": "R6",
+        "Name": "disco1",
+        "AnimationId": "rbxassetid://45832220"
+    },
+    {
+        "RigType": "R6",
+        "Name": "NinjaDash",
+        "AnimationId": "rbxassetid://45828430"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RHK2",
+        "AnimationId": "rbxassetid://45738282"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RHK2",
+        "AnimationId": "rbxassetid://45737360"
+    },
+    {
+        "RigType": "R6",
+        "Name": "RHK",
+        "AnimationId": "rbxassetid://45733005"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BeatBox",
+        "AnimationId": "rbxassetid://45504977"
+    },
+    {
+        "RigType": "R6",
+        "Name": "BeatBox",
+        "AnimationId": "rbxassetid://45489307"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testarmthing",
+        "AnimationId": "rbxassetid://45338022"
+    },
+    {
+        "RigType": "R6",
+        "Name": "sledgehammer3",
+        "AnimationId": "rbxassetid://45080940"
+    },
+    {
+        "RigType": "R6",
+        "Name": "sledgehammer2",
+        "AnimationId": "rbxassetid://45069652"
+    },
+    {
+        "RigType": "R6",
+        "Name": "sledgehammer1",
+        "AnimationId": "rbxassetid://45069150"
+    },
+    {
+        "RigType": "R6",
+        "Name": "SaxNoLoop",
+        "AnimationId": "rbxassetid://45039374"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Saxaphone",
+        "AnimationId": "rbxassetid://45036843"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DL",
+        "AnimationId": "rbxassetid://44448662"
+    },
+    {
+        "RigType": "R6",
+        "Name": "DR",
+        "AnimationId": "rbxassetid://44448657"
+    },
+    {
+        "RigType": "R6",
+        "Name": "M",
+        "AnimationId": "rbxassetid://44448652"
+    },
+    {
+        "RigType": "R6",
+        "Name": "UR",
+        "AnimationId": "rbxassetid://44448649"
+    },
+    {
+        "RigType": "R6",
+        "Name": "testHold",
+        "AnimationId": "rbxassetid://44420071"
+    },
+    {
+        "RigType": "R6",
+        "Name": "downLeftTest",
+        "AnimationId": "rbxassetid://44418684"
+    },
+    {
+        "RigType": "R6",
+        "Name": "downrightTest",
+        "AnimationId": "rbxassetid://44418501"
+    },
+    {
+        "RigType": "R6",
+        "Name": "upleftTest",
+        "AnimationId": "rbxassetid://44418205"
+    },
+    {
+        "RigType": "R6",
+        "Name": "xswordfast3",
+        "AnimationId": "rbxassetid://42071652"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitchfork",
+        "AnimationId": "rbxassetid://42071649"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bookfit",
+        "AnimationId": "rbxassetid://42071644"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bookrip",
+        "AnimationId": "rbxassetid://42071639"
+    },
+    {
+        "RigType": "R6",
+        "Name": "holdbook",
+        "AnimationId": "rbxassetid://42071635"
+    },
+    {
+        "RigType": "R6",
+        "Name": "tornbookhold",
+        "AnimationId": "rbxassetid://42071631"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitchfork",
+        "AnimationId": "rbxassetid://42071626"
+    },
+    {
+        "RigType": "R6",
+        "Name": "pitchfork",
+        "AnimationId": "rbxassetid://42070871"
+    },
+    {
+        "RigType": "R6",
+        "Name": "wereslash2",
+        "AnimationId": "rbxassetid://42070834"
+    },
+    {
+        "RigType": "R6",
+        "Name": "wereslash1",
+        "AnimationId": "rbxassetid://42070830"
+    },
+    {
+        "RigType": "R6",
+        "Name": "werelefthandhold",
+        "AnimationId": "rbxassetid://42070828"
+    },
+    {
+        "RigType": "R6",
+        "Name": "werewolfcurl",
+        "AnimationId": "rbxassetid://42070810"
+    },
+    {
+        "RigType": "R6",
+        "Name": "xswordfast3",
+        "AnimationId": "rbxassetid://41805839"
+    },
+    {
+        "RigType": "R6",
+        "Name": "wandswing1",
+        "AnimationId": "rbxassetid://35978913"
+    },
+    {
+        "RigType": "R6",
+        "Name": "xsword1",
+        "AnimationId": "rbxassetid://35978879"
+    },
+    {
+        "RigType": "R6",
+        "Name": "monstermash2",
+        "AnimationId": "rbxassetid://35654637"
+    },
+    {
+        "RigType": "R6",
+        "Name": "monstermash",
+        "AnimationId": "rbxassetid://35634514"
+    },
+    {
+        "RigType": "R6",
+        "Name": "headthrow",
+        "AnimationId": "rbxassetid://35154961"
+    },
+    {
+        "RigType": "R6",
+        "Name": "boardkick",
+        "AnimationId": "rbxassetid://35152447"
+    },
+    {
+        "RigType": "R6",
+        "Name": "kickback",
+        "AnimationId": "rbxassetid://33855276"
+    },
+    {
+        "RigType": "R6",
+        "Name": "partyanim",
+        "AnimationId": "rbxassetid://33796059"
+    },
+    {
+        "RigType": "R6",
+        "Name": "kickback",
+        "AnimationId": "rbxassetid://33686061"
+    },
+    {
+        "RigType": "R6",
+        "Name": "launchhand",
+        "AnimationId": "rbxassetid://33323745"
+    },
+    {
+        "RigType": "R6",
+        "Name": "slingshot",
+        "AnimationId": "rbxassetid://33248324"
+    },
+    {
+        "RigType": "R6",
+        "Name": "chop",
+        "AnimationId": "rbxassetid://33169596"
+    },
+    {
+        "RigType": "R6",
+        "Name": "chainsawswing",
+        "AnimationId": "rbxassetid://33169583"
+    },
+    {
+        "RigType": "R6",
+        "Name": "gravityslam",
+        "AnimationId": "rbxassetid://33169573"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hornblow",
+        "AnimationId": "rbxassetid://32729592"
+    },
+    {
+        "RigType": "R6",
+        "Name": "twohandswordwithswingout",
+        "AnimationId": "rbxassetid://32659706"
+    },
+    {
+        "RigType": "R6",
+        "Name": "swordthrust",
+        "AnimationId": "rbxassetid://32659703"
+    },
+    {
+        "RigType": "R6",
+        "Name": "swordswingjump",
+        "AnimationId": "rbxassetid://32659699"
+    },
+    {
+        "RigType": "R6",
+        "Name": "firewall",
+        "AnimationId": "rbxassetid://32326246"
+    },
+    {
+        "RigType": "R6",
+        "Name": "firering",
+        "AnimationId": "rbxassetid://32326245"
+    },
+    {
+        "RigType": "R6",
+        "Name": "firecast",
+        "AnimationId": "rbxassetid://32326240"
+    },
+    {
+        "RigType": "R6",
+        "Name": "wandcast",
+        "AnimationId": "rbxassetid://31665427"
+    },
+    {
+        "RigType": "R6",
+        "Name": "rocketkickback",
+        "AnimationId": "rbxassetid://31617132"
+    },
+    {
+        "RigType": "R6",
+        "Name": "rocketreload",
+        "AnimationId": "rbxassetid://31617128"
+    },
+    {
+        "RigType": "R6",
+        "Name": "standstill",
+        "AnimationId": "rbxassetid://31319431"
+    },
+    {
+        "RigType": "R6",
+        "Name": "barrelthrow",
+        "AnimationId": "rbxassetid://31020869"
+    },
+    {
+        "RigType": "R6",
+        "Name": "tridentthrow",
+        "AnimationId": "rbxassetid://30704030"
+    },
+    {
+        "RigType": "R6",
+        "Name": "tridentstab",
+        "AnimationId": "rbxassetid://30704021"
+    },
+    {
+        "RigType": "R6",
+        "Name": "saxtest",
+        "AnimationId": "rbxassetid://30257281"
+    },
+    {
+        "RigType": "R6",
+        "Name": "smellyrun",
+        "AnimationId": "rbxassetid://30235165"
+    },
+    {
+        "RigType": "R6",
+        "Name": "moonwalk",
+        "AnimationId": "rbxassetid://30196114"
+    },
+    {
+        "RigType": "R6",
+        "Name": "throwfrombag",
+        "AnimationId": "rbxassetid://30188122"
+    },
+    {
+        "RigType": "R6",
+        "Name": "throwfrombag",
+        "AnimationId": "rbxassetid://30174375"
+    },
+    {
+        "RigType": "R6",
+        "Name": "drink",
+        "AnimationId": "rbxassetid://29517689"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hornblow",
+        "AnimationId": "rbxassetid://29349343"
+    },
+    {
+        "RigType": "R6",
+        "Name": "hornblow",
+        "AnimationId": "rbxassetid://29095196"
+    },
+    {
+        "RigType": "R6",
+        "Name": "throw",
+        "AnimationId": "rbxassetid://28604759"
+    },
+    {
+        "RigType": "R6",
+        "Name": "soccerkick",
+        "AnimationId": "rbxassetid://28458752"
+    },
+    {
+        "RigType": "R6",
+        "Name": "socceridle",
+        "AnimationId": "rbxassetid://28442712"
+    },
+    {
+        "RigType": "R6",
+        "Name": "soccerwalk",
+        "AnimationId": "rbxassetid://28440069"
+    },
+    {
+        "RigType": "R6",
+        "Name": "uppercut",
+        "AnimationId": "rbxassetid://28160593"
+    },
+    {
+        "RigType": "R6",
+        "Name": "punch",
+        "AnimationId": "rbxassetid://28159255"
+    },
+    {
+        "RigType": "R6",
+        "Name": "punch",
+        "AnimationId": "rbxassetid://28156501"
+    },
+    {
+        "RigType": "R6",
+        "Name": "punch",
+        "AnimationId": "rbxassetid://28156406"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://28090109"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://28090085"
+    },
+    {
+        "RigType": "R6",
+        "Name": "Slash",
+        "AnimationId": "rbxassetid://28090053"
+    },
+    {
+        "RigType": "R6",
+        "Name": "dance",
+        "AnimationId": "rbxassetid://27789359"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffspin",
+        "AnimationId": "rbxassetid://27763939"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffdoublehit",
+        "AnimationId": "rbxassetid://27763344"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffswingleft",
+        "AnimationId": "rbxassetid://27762691"
+    },
+    {
+        "RigType": "R6",
+        "Name": "swingright",
+        "AnimationId": "rbxassetid://27761962"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffstrike",
+        "AnimationId": "rbxassetid://27761123"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffstrike",
+        "AnimationId": "rbxassetid://27760992"
+    },
+    {
+        "RigType": "R6",
+        "Name": "walkstaff",
+        "AnimationId": "rbxassetid://27759788"
+    },
+    {
+        "RigType": "R6",
+        "Name": "walkstaff",
+        "AnimationId": "rbxassetid://27759675"
+    },
+    {
+        "RigType": "R6",
+        "Name": "walkstaff",
+        "AnimationId": "rbxassetid://27759319"
+    },
+    {
+        "RigType": "R6",
+        "Name": "holdstaff",
+        "AnimationId": "rbxassetid://27758613"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffswingleft",
+        "AnimationId": "rbxassetid://27753183"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffswingright",
+        "AnimationId": "rbxassetid://27751170"
+    },
+    {
+        "RigType": "R6",
+        "Name": "idlewalk",
+        "AnimationId": "rbxassetid://27750069"
+    },
+    {
+        "RigType": "R6",
+        "Name": "idlewalk",
+        "AnimationId": "rbxassetid://27745526"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffidle",
+        "AnimationId": "rbxassetid://27744947"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffstandardswing",
+        "AnimationId": "rbxassetid://27741468"
+    },
+    {
+        "RigType": "R6",
+        "Name": "bigtwohandhit",
+        "AnimationId": "rbxassetid://27441775"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffup",
+        "AnimationId": "rbxassetid://27432691"
+    },
+    {
+        "RigType": "R6",
+        "Name": "staffout",
+        "AnimationId": "rbxassetid://27432686"
+    },
+    {
+        "RigType": "R6",
+        "Name": "twohandedswordhit",
+        "AnimationId": "rbxassetid://27432559"
+    },
+    {
+        "RigType": "R6",
+        "Name": "twohandedswordhit",
+        "AnimationId": "rbxassetid://27431613"
+    },
+    {
+        "RigType": "R6",
+        "Name": "twohandedswordhit",
+        "AnimationId": "rbxassetid://27431302"
+    },
+    {
+        "RigType": "R6",
+        "Name": "coastingpose",
+        "AnimationId": "rbxassetid://21698666"
+    },
+    {
+        "RigType": "R6",
+        "Name": "rightturn",
+        "AnimationId": "rbxassetid://21633130"
+    },
+    {
+        "RigType": "R6",
+        "Name": "leftturn",
+        "AnimationId": "rbxassetid://21632926"
+    },
+    {
+        "RigType": "R6",
+        "Name": "boardkick",
+        "AnimationId": "rbxassetid://21417802"
+    }
+]
